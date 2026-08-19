@@ -149,4 +149,5 @@ Use this canvas to design a governance model that provides enough structure with
 
 > **What infrastructure would they need?**
 
-> 
+---
+> > **About this tool:** This canvas was developed specifically for this guide. It synthesises principles from Communities of Practice, participatory planning and collaborative leadership literature without reproducing proprietary course materials.
