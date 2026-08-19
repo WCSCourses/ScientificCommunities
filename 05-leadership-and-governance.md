@@ -21,6 +21,8 @@ It is:
 
 Effective community leadership combines **coordination with shared ownership**.
 
+> **Design principle:** A Community of Practice may need coordination and infrastructure, but leadership does not have to be concentrated in one person. The aim is to create conditions in which members can contribute, make decisions and take ownership.
+
 ---
 
 # 5.1 Start with enough structure
@@ -263,31 +265,27 @@ Create collaborative working groups.
 
 ---
 
-# The "step back" test
+# The dependency test
 
-Ask yourself:
+A community can become overly dependent on its coordinator.
 
-> **If I disappeared for one month, what would stop happening?**
+Ask:
 
-List everything:
+> **If the coordinator were unavailable for one month, what would stop happening?**
 
 > ...
 
 Now ask:
 
-> **What could someone else take ownership of?**
+> **Which of these responsibilities could be shared?**
 
 > ...
 
-Then:
-
-> **What infrastructure would they need from me?**
+> **What information, access or support would another member need to take them on?**
 
 > ...
 
-Your goal is not to make yourself unnecessary immediately.
-
-Your goal is to gradually increase the community's ability to function without depending on one person.
+Use this exercise to identify opportunities for distributed responsibility.
 
 ---
 
@@ -571,21 +569,27 @@ Update your **Community Blueprint** with:
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-This section draws substantially on Andy Robinson's analysis of collaborative and network leadership in *The Less Visible Leader*, particularly the principles of shared power, creating space for others to contribute, building trust, embracing ambiguity, providing sufficient infrastructure, resolving differences and adapting over time.
+### Additional source
 
-The section also draws on Communities of Practice literature and the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
 
-### Key sources
+Robinson's report examines leadership in networks and collaborative initiatives, including trust, listening, shared power, distributed leadership, infrastructure and adaptation. Those principles inform this section but the report's frameworks, wording and exercises are not reproduced here. :contentReference[oaicite:10]{index=10}
 
-- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+### Primary CoP source
 
-**Adaptation:** Robinson's work focuses primarily on environmental networks, coalitions and collaboratives rather than scientific Communities of Practice. The principles have therefore been adapted here to the context of scientific CoPs.
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
 
-**Our synthesis:** The governance canvas, "step-back test" and decision-making exercises were developed for this guide.
+The guidebook emphasises that Communities of Practice depend on member commitment, initiative and relationships, and that leadership is part of the community's development.
+
+### Additional evidence
+
+Participatory planning literature also supports involving relevant stakeholders in decisions and avoiding processes dominated by a single group or perspective. The Community Tool Box provides an openly licensed practical resource on participatory planning. :contentReference[oaicite:11]{index=11}
+
+### Our synthesis
+
+The governance model, decision-mapping exercise, dependency test and governance canvas were developed specifically for this guide.
 
 ---
 
