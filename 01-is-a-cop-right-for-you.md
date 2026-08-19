@@ -206,4 +206,19 @@ If you cannot answer these questions yet, spend more time here.
 
 ---
 
+## Sources & influences
+
+This section is primarily based on the Community of Practice framework developed by Etienne Wenger and colleagues, particularly the distinction between **domain, community and practice** and the emphasis on learning through sustained interaction. It has been adapted here for people developing scientific communities of practice.
+
+The section also draws on the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly its practical approach to community development.
+
+### Key sources
+
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+
+**Adaptation:** The diagnostic questions and exercises on this page were developed for this guide to help scientific practitioners assess whether a Community of Practice is an appropriate approach.
+
+---
+
 **[Next: Define your domain and purpose →](02-define-domain-and-purpose.html)**
