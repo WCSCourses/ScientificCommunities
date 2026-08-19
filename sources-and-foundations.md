@@ -37,20 +37,6 @@ Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and 
 
 ---
 
-## Center for Scientific Collaboration and Community Engagement
-
-The Center for Scientific Collaboration and Community Engagement (CSCCE) is an important influence on the broader field of scientific community engagement and on the author's professional learning.
-
-The author completed the **Scientific Community Engagement Fundamentals** course.
-
-This guide does **not** reproduce CSCCE course slides, worksheets, activities, diagrams or other course materials.
-
-Where CSCCE has publicly released resources under a licence permitting reuse, the specific resource and licence should be checked before reuse.
-
-Readers interested in professional scientific community engagement are encouraged to consult CSCCE's original resources and training.
-
----
-
 ## The Art of Community
 
 Charles Vogl's work provides a complementary perspective on community identity, belonging, initiation, rituals, stories, symbols and deeper participation.
