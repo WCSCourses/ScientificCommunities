@@ -40,6 +40,12 @@ Choose the simplest combination of tools that supports the way your members actu
 
 **[Choose your communication infrastructure →](06-communication-and-infrastructure.html)**
 
+### 7. Launch the community
+
+Move from planning to practice. Engage potential members, establish a founding group, create an experience of value and build momentum through the first 90 days.
+
+**[Launch the community →](07-launch-the-community.html)**
+
 
 ---
 
