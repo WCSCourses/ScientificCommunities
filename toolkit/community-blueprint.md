@@ -269,3 +269,7 @@ The blueprint is a living document.
 Do not try to complete everything before launching.
 
 Use it to make your thinking visible, identify gaps and guide conversations with members.
+
+---
+
+> **About this tool:** This blueprint was developed specifically for this guide. It is an original synthesis of ideas from the Communities of Practice and community-development literature.
