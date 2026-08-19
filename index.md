@@ -4,4 +4,20 @@
 
 This guide provides practical tools, activities and frameworks for establishing, developing and maintaining a successful scientific Community of Practice.
 
-**Start here:** [Is a Community of Practice right for you?](01-is-a-cop-right-for-you.md)
+### 1. Is a CoP right for you?
+
+Before creating a community, clarify the problem you are trying to solve and whether a Community of Practice is the right mechanism.
+
+**[Start here →](01-is-a-cop-right-for-you.html)**
+
+### 2. Define your domain and purpose
+
+Identify what brings people together, what they want to learn or accomplish together, and what makes the community distinct.
+
+**[Define your community →](02-define-domain-and-purpose.html)**
+
+### 3. Understand your members
+
+Identify who your community is for, what different members need, what motivates them and what they can contribute.
+
+**[Understand your members →](03-understand-your-members.html)**
