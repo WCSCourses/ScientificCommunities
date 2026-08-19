@@ -283,4 +283,19 @@ Save these in your **Community Blueprint**.
 
 ---
 
+## Sources & influences
+
+The distinction between **domain, community and practice** and the emphasis on developing these elements together are drawn from Wenger-Trayner and Wenger-Trayner's work on Communities of Practice.
+
+The practical exercises for defining the shared challenge, collective value, purpose and objectives have been adapted for scientific communities and informed by the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+
+### Key sources
+
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+
+**Our synthesis:** The purpose-setting exercises and "because we're together" test are practical adaptations developed for this guide. They combine the concept of a shared domain and practice with community-development approaches.
+
+---
+
 **[Next: Understand your members →](03-understand-your-members.html)**
