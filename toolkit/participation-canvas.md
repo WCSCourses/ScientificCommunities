@@ -140,3 +140,6 @@ What are members asking for?
 What should we change?
 
 > 
+---
+
+> **About this tool:** This canvas was developed specifically for this guide. The participation categories are an original synthesis intended to help scientific CoPs design multiple pathways for contribution and leadership.
