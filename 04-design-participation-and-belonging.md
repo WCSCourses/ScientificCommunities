@@ -401,4 +401,22 @@ Update your **Community Blueprint** with:
 
 ---
 
+## Sources & influences
+
+This section draws on community-engagement approaches presented in the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly the emphasis on member participation, engagement, belonging and designing opportunities around members' needs.
+
+It also draws on Wenger-Trayner and Wenger-Trayner's understanding of Communities of Practice as spaces where practitioners learn through interaction, contribute to a shared practice and develop relationships over time.
+
+The principles of listening to quieter voices, building trust and creating opportunities for members to contribute are also consistent with the collaborative leadership practices described by Robinson in *The Less Visible Leader*.
+
+### Key sources
+
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+
+**Our synthesis:** The "Observe → Ask → Contribute → Collaborate → Lead" pathway and the first-30-days exercise were developed for this guide as practical adaptations of these ideas.
+
+---
+
 **[Next: Establish leadership and governance →](05-leadership-and-governance.html)**
