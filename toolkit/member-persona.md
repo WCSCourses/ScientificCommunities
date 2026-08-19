@@ -173,3 +173,7 @@ What assumptions might we be making?
 A persona is a hypothesis, not a description of every member.
 
 Validate it with real people and update it as you learn more.
+
+---
+
+> **About this tool:** This member-profile template was developed specifically for this guide. It draws on open community-needs and participatory-planning approaches and is intended as an original practical tool for scientific CoPs.
