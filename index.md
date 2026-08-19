@@ -27,3 +27,9 @@ Identify who your community is for, what different members need, what motivates 
 Create meaningful ways for people to participate, contribute, connect and develop a sense of belonging.
 
 **[Design participation →](04-design-participation-and-belonging.html)**
+
+### 5. Establish leadership and governance
+
+Create enough coordination and structure to help the community function while sharing power and creating opportunities for members to lead.
+
+**[Design leadership and governance →](05-leadership-and-governance.html)**
