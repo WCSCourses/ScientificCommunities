@@ -228,7 +228,7 @@ Li, L. et al. (2020). *You say it, we say it, but how do we use it? Communities 
 
 ### Our synthesis
 
-The diagnostic questions and "CoP test" on this page are original tools developed for this guide. They are intended to help scientific practitioners assess whether a Community of Practice is an appropriate approach; they are not reproduced from a CSCCE course activity.
+The diagnostic questions and "CoP test" on this page are original tools developed for this guide. They are intended to help scientific practitioners assess whether a Community of Practice is an appropriate approach.
 
 ---
 
