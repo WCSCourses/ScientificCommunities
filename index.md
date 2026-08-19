@@ -1,89 +1,286 @@
-# Scientific Communities of Practice
+---
+layout: default
+title: Scientific Communities of Practice
+---
 
-## A practical guide to building and sustaining scientific communities of practice
+<div class="hero">
 
-This guide provides practical tools, activities and frameworks for establishing, developing and maintaining a successful scientific Community of Practice.
+# Building a Scientific Community of Practice
 
-### 1. Is a CoP right for you?
+A practical, interactive guide to designing, launching, facilitating and sustaining a community where scientists learn from one another, share expertise and build lasting connections.
 
-Before creating a community, clarify the problem you are trying to solve and whether a Community of Practice is the right mechanism.
+<a class="button" href="01-is-a-cop-right-for-you.html">Start the guide →</a>
+
+</div>
+
+## What is this guide?
+
+A Community of Practice is more than a mailing list, network or series of events.
+
+It is a community built around a **shared area of practice**, where people learn from one another, exchange experience and develop their practice over time.
+
+This guide is designed to help you move from an idea to a functioning, sustainable scientific community.
+
+<div class="callout">
+
+**You don't need to build everything at once.**
+
+Work through the guide step by step, use the practical tools as you go, and revisit earlier decisions as your community develops.
+
+</div>
+
+---
+
+## The Community of Practice journey
+
+<div class="step-grid">
+
+<div class="step-card">
+
+<span class="step-number">Step 01</span>
+
+### Is a CoP right for you?
+
+Before creating a community, explore whether a Community of Practice is the right approach for the need you are trying to address.
 
 **[Start here →](01-is-a-cop-right-for-you.html)**
 
-### 2. Define your domain and purpose
+</div>
 
-Identify what brings people together, what they want to learn or accomplish together, and what makes the community distinct.
+<div class="step-card">
 
-**[Define your community →](02-define-domain-and-purpose.html)**
+<span class="step-number">Step 02</span>
 
-### 3. Understand your members
+### Define your domain and purpose
 
-Identify who your community is for, what different members need, what motivates them and what they can contribute.
+Clarify the shared area of practice, the need the community will address and the value it aims to create.
+
+**[Define your purpose →](02-define-domain-and-purpose.html)**
+
+</div>
+
+<div class="step-card">
+
+<span class="step-number">Step 03</span>
+
+### Understand your members
+
+Identify who the community is for, what members need and what they can contribute.
 
 **[Understand your members →](03-understand-your-members.html)**
 
-### 4. Design participation and belonging
+</div>
 
-Create meaningful ways for people to participate, contribute, connect and develop a sense of belonging.
+<div class="step-card">
+
+<span class="step-number">Step 04</span>
+
+### Design participation and belonging
+
+Create meaningful ways for people to participate and develop a sense of belonging.
 
 **[Design participation →](04-design-participation-and-belonging.html)**
 
-### 5. Establish leadership and governance
+</div>
 
-Create enough coordination and structure to help the community function while sharing power and creating opportunities for members to lead.
+<div class="step-card">
 
-**[Design leadership and governance →](05-leadership-and-governance.html)**
+<span class="step-number">Step 05</span>
 
-### 6. Choose your communication infrastructure
+### Develop leadership and governance
 
-Choose the simplest combination of tools that supports the way your members actually need to interact, learn and collaborate.
+Create structures that support shared responsibility, decision-making and healthy leadership.
 
-**[Choose your communication infrastructure →](06-communication-and-infrastructure.html)**
+**[Develop leadership →](05-leadership-and-governance.html)**
 
-### 7. Launch the community
+</div>
 
-Move from planning to practice. Engage potential members, establish a founding group, create an experience of value and build momentum through the first 90 days.
+<div class="step-card">
 
-**[Launch the community →](07-launch-the-community.html)**
+<span class="step-number">Step 06</span>
 
-### 8. Facilitate meaningful community activities
+### Build communication and infrastructure
 
-Choose activities based on what the community needs — from peer problem-solving and case clinics to learning circles, working groups and member showcases.
+Choose the communication channels, digital spaces and practical infrastructure the community actually needs.
 
-**[Design community activities →](08-facilitate-community-activities.html)**
+**[Build infrastructure →](06-communication-and-infrastructure.html)**
 
-### 9. Build community ownership
+</div>
+
+<div class="step-card">
+
+<span class="step-number">Step 07</span>
+
+### Launch the community
+
+Turn your plans into action and create the conditions for early participation.
+
+**[Launch →](07-launch-the-community.html)**
+
+</div>
+
+<div class="step-card">
+
+<span class="step-number">Step 08</span>
+
+### Facilitate meaningful activities
+
+Design activities that respond to real community needs and create opportunities for members to learn from one another.
+
+**[Facilitate activities →](08-facilitate-community-activities.html)**
+
+</div>
+
+<div class="step-card">
+
+<span class="step-number">Step 09</span>
+
+### Build community ownership
 
 Move from organiser-led activity towards shared responsibility, member leadership and sustainable succession.
 
-**[Build community ownership →](09-build-community-ownership.html)**
+**[Build ownership →](09-build-community-ownership.html)**
 
-### 10. Evaluate community health, value and impact
+</div>
 
-Move beyond attendance and membership numbers. Assess participation, relationships, learning, changes in practice, collaboration and wider outcomes.
+<div class="step-card">
 
-**[Evaluate community health, value and impact →](10-evaluate-community-health.html)**
+<span class="step-number">Step 10</span>
+
+### Evaluate community health, value and impact
+
+Look beyond attendance and membership numbers to understand participation, relationships, learning, changes in practice and wider outcomes.
+
+**[Evaluate your community →](10-evaluate-community-health.html)**
+
+</div>
+
+</div>
 
 ---
 
 ## Practical toolkit
 
-Use these templates alongside the framework to design and run your Community of Practice.
+Use these templates alongside the guide to turn ideas into practical community-building decisions.
 
-- **[Community Blueprint →](toolkit/community-blueprint.html)** — bring together the key decisions about your community in one place.
-- **[Member Profile →](toolkit/member-persona.html)** — understand members' needs, motivations, assets and barriers.
-- **[Participation Canvas →](toolkit/participation-canvas.html)** — design different ways for members to participate and contribute.
-- **[Governance Canvas →](toolkit/governance-canvas.html)** — define leadership, decision-making and shared responsibility.
-- **[Communication Canvas →](toolkit/communication-canvas.html)** — decide what communication infrastructure your community actually needs.
-- **[90-Day Launch Plan →](toolkit/90-day-launch-plan.html)** — turn your community design into a practical first three months.
-- **[Activity Design Canvas →](toolkit/activity-design-canvas.html)** — design activities around a genuine community need and meaningful member participation.
-- **[Community Ownership Canvas →](toolkit/community-ownership-canvas.html)** — assess and strengthen member ownership, distributed responsibility and succession.
-- **[Community Evaluation Canvas →](toolkit/community-evaluation-canvas.html)** — evaluate participation, engagement, relationships, learning, outcomes and community health.
+<div class="toolkit-grid">
+
+<div class="toolkit-card">
+
+### Community Blueprint
+
+Bring the key decisions about your Community of Practice together in one place.
+
+**[Open the blueprint →](toolkit/community-blueprint.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Member Profile
+
+Understand members' needs, motivations, assets and barriers.
+
+**[Open the member profile →](toolkit/member-persona.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Participation Canvas
+
+Design different ways for members to participate and contribute.
+
+**[Open the canvas →](toolkit/participation-canvas.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Governance Canvas
+
+Define leadership, decision-making and shared responsibility.
+
+**[Open the canvas →](toolkit/governance-canvas.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Communication Canvas
+
+Decide what communication infrastructure your community actually needs.
+
+**[Open the canvas →](toolkit/communication-canvas.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### 90-Day Launch Plan
+
+Turn your community design into a practical first three months.
+
+**[Open the launch plan →](toolkit/90-day-launch-plan.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Activity Design Canvas
+
+Design activities around a genuine community need and meaningful member participation.
+
+**[Open the canvas →](toolkit/activity-design-canvas.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Community Ownership Canvas
+
+Assess and strengthen member ownership, distributed responsibility and succession.
+
+**[Open the canvas →](toolkit/community-ownership-canvas.html)**
+
+</div>
+
+<div class="toolkit-card">
+
+### Community Evaluation Canvas
+
+Evaluate participation, engagement, relationships, learning, outcomes and community health.
+
+**[Open the canvas →](toolkit/community-evaluation-canvas.html)**
+
+</div>
+
+</div>
 
 ---
 
-## About this guide
+## How to use this guide
 
-This guide synthesises research and practice from Communities of Practice, scientific community engagement and collaborative leadership.
+You can read the guide from beginning to end, or jump directly to the section that addresses your current challenge.
 
-**[Sources & foundations →](sources-and-foundations.html)**
+Each section combines:
+
+**Concepts → Practical questions → Activities → Templates → Reflection**
+
+The aim is not to provide a rigid recipe.
+
+Your community will have its own context, members and purpose. Use the framework as a starting point, test ideas with your members and adapt as you learn.
+
+---
+
+<div class="callout">
+
+### Ready to begin?
+
+Start by asking the most important question:
+
+**Is a Community of Practice actually the right approach for your need?**
+
+**[Start the guide →](01-is-a-cop-right-for-you.html)**
+
+</div>
