@@ -449,21 +449,29 @@ Update your **Community Blueprint** with:
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-The distinction between a Community of Practice and the technology used to support it is based primarily on Wenger-Trayner and Wenger-Trayner's work. They emphasise that a website or forum does not itself constitute a Community of Practice; technology is useful when it supports interaction, learning and the development of shared practice.
+### Primary CoP source
 
-The practical approach to selecting communication channels and designing community infrastructure is also informed by the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+Wenger-Trayner and Wenger-Trayner distinguish Communities of Practice from simply having a website, forum or network. Technology can support a community, but the community exists through interaction, learning and the development of shared practice.
 
-The emphasis on providing enough coordination and infrastructure to keep collective work moving is also informed by Robinson's work on collaborative leadership.
+**Reference:**  
+Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
 
-### Key sources
+[Read the original introduction →](https://www.wenger-trayner.com/introduction-to-communities-of-practice/)
 
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
-- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+### Additional source
 
-**Our synthesis:** The platform test, communication canvas and minimum-viable-infrastructure approach were developed for this guide.
+Robinson's research on collaborative networks highlights the importance of sufficient infrastructure and coordination while cautioning against unnecessary formalisation. :contentReference[oaicite:12]{index=12}
+
+**Reference:**  
+Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives.*
+
+### Our synthesis
+
+The platform test, communication mapping exercise and minimum-viable-infrastructure approach were developed specifically for this guide.
+
+They are intended to help scientific communities choose tools according to their actual practices rather than reproducing a particular technology or platform framework.
 
 ---
 
