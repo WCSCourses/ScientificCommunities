@@ -558,6 +558,18 @@ Update your **Community Blueprint** with:
 - recognition approach
 - indicators of increasing member ownership
 
+  ---
+
+## Related tool
+
+**[Community Ownership Canvas →](toolkit/community-ownership-canvas.html)**
+
+Use the canvas to identify opportunities for members to take responsibility, develop leadership and strengthen succession.
+
+---
+
+**[Next: Evaluate community health, value and impact →](10-evaluate-community-health.html)**
+
 ---
 
 ## Sources & evidence
