@@ -46,6 +46,12 @@ Move from planning to practice. Engage potential members, establish a founding g
 
 **[Launch the community →](07-launch-the-community.html)**
 
+### 8. Facilitate meaningful community activities
+
+Choose activities based on what the community needs — from peer problem-solving and case clinics to learning circles, working groups and member showcases.
+
+**[Design community activities →](08-facilitate-community-activities.html)**
+
 ---
 
 ## Practical toolkit
