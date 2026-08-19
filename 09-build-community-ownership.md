@@ -408,7 +408,6 @@ Think about how a member could gradually become more involved.
 
 For example:
 
-```text
 New member
     ↓
 Contributor
@@ -422,7 +421,9 @@ Activity organiser
 Working-group lead
     ↓
 Community steward
-```
+
+---
+
 # 9.13 Ask members what they want to own
 
 Do not assume what members want to lead.
