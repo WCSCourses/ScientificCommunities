@@ -39,3 +39,12 @@ Create enough coordination and structure to help the community function while sh
 Choose the simplest combination of tools that supports the way your members actually need to interact, learn and collaborate.
 
 **[Choose your communication infrastructure →](06-communication-and-infrastructure.html)**
+
+
+---
+
+## About this guide
+
+This guide synthesises research and practice from Communities of Practice, scientific community engagement and collaborative leadership.
+
+**[Sources & foundations →](sources-and-foundations.html)**
