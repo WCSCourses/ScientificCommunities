@@ -283,18 +283,27 @@ Save these in your **Community Blueprint**.
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-The distinction between **domain, community and practice** and the emphasis on developing these elements together are drawn from Wenger-Trayner and Wenger-Trayner's work on Communities of Practice.
+### Primary source
 
-The practical exercises for defining the shared challenge, collective value, purpose and objectives have been adapted for scientific communities and informed by the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+The distinction between **domain, community and practice**, and the role of a shared domain in giving a Community of Practice its identity, are based on Wenger-Trayner and Wenger-Trayner.
 
-### Key sources
+**Reference:**  
+Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
 
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+[Read the original introduction →](https://www.wenger-trayner.com/introduction-to-communities-of-practice/)
 
-**Our synthesis:** The purpose-setting exercises and "because we're together" test are practical adaptations developed for this guide. They combine the concept of a shared domain and practice with community-development approaches.
+### Additional evidence
+
+The Wenger-Trayner guidebook emphasises that a community's progress depends on the people involved, the relationships they develop and their commitment to the domain and shared practice.
+
+**Reference:**  
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
+
+### Our synthesis
+
+The "because we're together" test, purpose formula and exercises on collective value were developed specifically for this guide. They translate the underlying Community of Practice concepts into practical questions for scientific communities.
 
 ---
 
