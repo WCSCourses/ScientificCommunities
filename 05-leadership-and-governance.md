@@ -571,4 +571,22 @@ Update your **Community Blueprint** with:
 
 ---
 
+## Sources & influences
+
+This section draws substantially on Andy Robinson's analysis of collaborative and network leadership in *The Less Visible Leader*, particularly the principles of shared power, creating space for others to contribute, building trust, embracing ambiguity, providing sufficient infrastructure, resolving differences and adapting over time.
+
+The section also draws on Communities of Practice literature and the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+
+### Key sources
+
+- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+
+**Adaptation:** Robinson's work focuses primarily on environmental networks, coalitions and collaboratives rather than scientific Communities of Practice. The principles have therefore been adapted here to the context of scientific CoPs.
+
+**Our synthesis:** The governance canvas, "step-back test" and decision-making exercises were developed for this guide.
+
+---
+
 **[Next: Choose your communication infrastructure →](06-communication-and-infrastructure.html)**
