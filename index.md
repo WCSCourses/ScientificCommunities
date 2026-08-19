@@ -46,6 +46,29 @@ Move from planning to practice. Engage potential members, establish a founding g
 
 **[Launch the community →](07-launch-the-community.html)**
 
+---
+
+## Practical toolkit
+
+Use these templates alongside the framework to design and run your Community of Practice.
+
+- **[Community Blueprint →](toolkit/community-blueprint.html)**  
+  Bring together the key decisions about your community in one place.
+
+- **[Member Profile →](toolkit/member-persona.html)**  
+  Understand members' needs, motivations, assets and barriers.
+
+- **[Participation Canvas →](toolkit/participation-canvas.html)**  
+  Design different ways for members to participate and contribute.
+
+- **[Governance Canvas →](toolkit/governance-canvas.html)**  
+  Define leadership, decision-making and shared responsibility.
+
+- **[Communication Canvas →](toolkit/communication-canvas.html)**  
+  Decide what communication infrastructure your community actually needs.
+
+- **[90-Day Launch Plan →](toolkit/90-day-launch-plan.html)**  
+  Turn your community design into a practical first three months.
 
 ---
 
