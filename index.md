@@ -33,3 +33,9 @@ Create meaningful ways for people to participate, contribute, connect and develo
 Create enough coordination and structure to help the community function while sharing power and creating opportunities for members to lead.
 
 **[Design leadership and governance →](05-leadership-and-governance.html)**
+
+### 6. Choose your communication infrastructure
+
+Choose the simplest combination of tools that supports the way your members actually need to interact, learn and collaborate.
+
+**[Choose your communication infrastructure →](06-communication-and-infrastructure.html)**
