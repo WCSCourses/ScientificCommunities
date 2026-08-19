@@ -449,4 +449,22 @@ Update your **Community Blueprint** with:
 
 ---
 
+## Sources & influences
+
+The distinction between a Community of Practice and the technology used to support it is based primarily on Wenger-Trayner and Wenger-Trayner's work. They emphasise that a website or forum does not itself constitute a Community of Practice; technology is useful when it supports interaction, learning and the development of shared practice.
+
+The practical approach to selecting communication channels and designing community infrastructure is also informed by the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE).
+
+The emphasis on providing enough coordination and infrastructure to keep collective work moving is also informed by Robinson's work on collaborative leadership.
+
+### Key sources
+
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+
+**Our synthesis:** The platform test, communication canvas and minimum-viable-infrastructure approach were developed for this guide.
+
+---
+
 **[Next: Launch the community →](07-launch-the-community.html)**
