@@ -408,19 +408,31 @@ Think about how a member could gradually become more involved.
 
 For example:
 
-New member
-    ↓
-Contributor
-    ↓
-Activity helper
-    ↓
-Facilitator
-    ↓
-Activity organiser
-    ↓
-Working-group lead
-    ↓
-Community steward
+>New member
+>
+>    ↓
+>
+>Contributor
+>
+>    ↓
+>
+>Activity helper
+>
+>    ↓
+>
+>Facilitator
+>
+>    ↓
+>
+>Activity organiser
+>
+>    ↓
+>
+>Working-group lead
+>
+>    ↓
+>
+>Community steward
 
 ---
 
