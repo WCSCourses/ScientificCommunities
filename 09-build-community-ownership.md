@@ -422,3 +422,154 @@ Activity organiser
 Working-group lead
     ↓
 Community steward
+
+# 9.13 Ask members what they want to own
+
+Do not assume what members want to lead.
+
+Ask them.
+
+For example:
+
+> **What would you like to contribute to this community?**
+
+> 
+
+> **Is there an activity you would like to organise?**
+
+> 
+
+> **Is there something you think the community should develop?**
+
+> 
+
+> **Would you like to support another member?**
+
+> 
+
+> **What would make it easier for you to get involved?**
+
+---
+
+# 9.14 The ownership check
+
+Every few months, ask:
+
+### Who initiated something recently?
+
+> 
+
+### Who organised something?
+
+> 
+
+### Who helped another member?
+
+> 
+
+### Who welcomed someone new?
+
+> 
+
+### Who made a decision?
+
+> 
+
+### Who created something useful?
+
+> 
+
+### Who is taking responsibility without being asked?
+
+> 
+
+If the answers are always the same few people, your community may be overly dependent on a small leadership group.
+
+---
+
+# 9.15 Know when to step back
+
+As members become more capable, the organiser's role may change.
+
+Early on, you may need to:
+
+- initiate activities
+- recruit members
+- coordinate communication
+- establish infrastructure
+
+Later, you may spend more time:
+
+- connecting people
+- supporting member leaders
+- maintaining infrastructure
+- noticing gaps
+- facilitating transitions
+- protecting the community's purpose
+- helping resolve difficult issues
+
+The objective is not to become invisible.
+
+It is to make the community increasingly capable of generating activity and value through its members.
+
+---
+
+# Ownership checkpoint
+
+| Question | Yes | Not yet |
+|---|:---:|:---:|
+| Do members have meaningful ways to lead? | ☐ | ☐ |
+| Are leadership opportunities visible? | ☐ | ☐ |
+| Can members take on small responsibilities? | ☐ | ☐ |
+| Do members receive appropriate support? | ☐ | ☐ |
+| Are activities increasingly co-created or member-led? | ☐ | ☐ |
+| Are contributions recognised? | ☐ | ☐ |
+| Are newcomers able to move towards deeper participation? | ☐ | ☐ |
+| Is responsibility distributed beyond the founding team? | ☐ | ☐ |
+| Is succession being considered? | ☐ | ☐ |
+| Does the community still function when the organiser steps back? | ☐ | ☐ |
+
+---
+
+# Your output
+
+Update your **Community Blueprint** with:
+
+- member leadership opportunities
+- responsibility-sharing approach
+- champion/steward roles
+- succession arrangements
+- leadership development opportunities
+- recognition approach
+- indicators of increasing member ownership
+
+---
+
+## Sources & evidence
+
+### Primary source
+
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
+
+The guidebook describes community development as involving different forms of participation and discusses the role of leadership, community cultivation and enabling members to contribute to the development of the practice.
+
+[Explore the guidebook →](https://www.wenger-trayner.com/cop-guidebook/)
+
+### Additional source
+
+Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+
+Robinson's work highlights shared power, creating space for others to contribute, developing trust and enabling leadership to emerge across collaborative networks. These principles inform this section but the report's frameworks and exercises are not reproduced here.
+
+### Additional open source
+
+The Community Tool Box provides openly licensed material on leadership development, participation and sustaining community action.
+
+**Reference:**  
+Center for Community Health and Development, University of Kansas. *Community Tool Box.*
+
+[Explore the Community Tool Box →](https://ctb.ku.edu/)
+
+### Our synthesis
+
+The leadership ladder, ownership check, responsibility-transfer exercise and succession prompts were developed specifically for this guide.
