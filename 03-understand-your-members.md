@@ -7,6 +7,8 @@ title: Understand your members
 
 A community is only as useful as the value that members experience from participating.
 
+> **Principle:** Do not design the community around assumptions about members. Learn what matters to them, what resources they already have and what they want to contribute.
+
 One of the most common mistakes when establishing a Community of Practice is to start by asking:
 
 > **"What activities should we organise?"**
@@ -65,186 +67,142 @@ The purpose is to expose assumptions that you can later test with actual members
 
 ---
 
-# 3.2 Understand motivation
+# 3.2 Listen before you design
 
-People rarely participate simply because a community exists.
+Before deciding what the community should offer, learn from potential members.
 
-They participate because they expect something valuable from it.
+Useful approaches include:
 
-Possible motivations include:
+- one-to-one conversations
+- short surveys
+- focus groups
+- listening sessions
+- analysis of questions members already ask
+- mapping existing expertise and resources
+- reviewing existing community activity
 
-### Learning
+Ask both about **needs and assets**.
 
-> "I want to develop my skills."
-
-### Problem solving
-
-> "I have a problem and want advice from people who have dealt with it."
-
-### Contribution
-
-> "I have experience that could help others."
-
-### Collaboration
-
-> "I want to find people to work with."
-
-### Connection
-
-> "I want to build relationships with people working in my field."
-
-### Recognition
-
-> "I want my expertise and contribution to be visible."
-
-### Career development
-
-> "I want to develop my professional network and opportunities."
-
-### Belonging
-
-> "I want to be part of a community of people who understand the challenges I face."
-
-### Influence
-
-> "I want to help shape the direction of the field."
+A community member is not only someone who needs something from the community. They may also bring knowledge, relationships, experience, resources or opportunities that could benefit others.
 
 ---
 
-## Activity: The motivation test
+## Activity: Needs and assets map
 
-For each major member group, complete:
+For each member group, identify:
 
-> **They might join because...**
+| Member group | What matters to them? | What do they need? | What can they contribute? | What might prevent participation? |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
-> ...
+Do not treat these answers as facts yet.
 
-> **They will continue participating if...**
-
-> ...
-
-> **They might stop participating if...**
-
-> ...
-
-The difference between these three answers is important.
-
-A person's initial reason for joining may not be the reason they stay.
+They are hypotheses to test with real members.
 
 ---
 
-# 3.3 Identify member needs
+# 3.3 Validate your assumptions
 
-Now consider what members actually need from the community.
+Talk to potential members before finalising your community design.
 
-Needs might include:
+### Questions to explore
 
-- access to expertise
-- practical advice
-- training
-- mentoring
-- collaboration opportunities
-- visibility
-- peer support
-- resources
-- career opportunities
-- funding information
-- technical troubleshooting
-- opportunities to teach
-- opportunities to lead
-- access to new ideas
+> What would make this community genuinely useful to you?
 
-Avoid assuming that everyone needs the same thing.
+> What would you want to learn from other members?
 
----
+> What could you contribute?
 
-## Activity: Needs mapping
+> What would make participation difficult?
 
-Complete the table:
+> What would make you return?
 
-| Member group | Most important needs | How could the community meet them? |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+> What would make you feel that your contribution mattered?
+
+> What should this community avoid becoming?
+
+Record themes rather than trying to predict what every individual wants.
 
 ---
 
-# 3.4 Identify barriers to participation
+# 3.4 Map participation opportunities
 
-Understanding what prevents participation is just as important as understanding what motivates it.
+People can contribute in different ways.
 
-Common barriers might include:
+For your community, identify opportunities for members to:
 
-- lack of time
-- competing work priorities
-- unclear value
-- lack of confidence
-- language barriers
-- geographical distance
-- poor internet connectivity
-- inconvenient meeting times
-- accessibility barriers
-- lack of institutional support
-- uncertainty about what contribution is expected
-- fear of asking questions
-- concerns about hierarchy or status
-- previous negative experiences
+### Learn
 
-### Ask:
-
-> **What could make it difficult for each member group to participate?**
-
-> ...
-
----
-
-# 3.5 Design for different levels of participation
-
-Not everyone needs to participate in the same way.
-
-A healthy community can offer different ways to engage.
-
-### Observe
-
-Members may initially read, listen or attend without contributing publicly.
+> 
 
 ### Ask
 
-Members begin asking questions and seeking advice.
+> 
 
-### Contribute
+### Share
 
-Members share resources, experience, ideas or answers.
+> 
 
 ### Collaborate
 
-Members work with others on projects, activities or shared outputs.
+> 
+
+### Facilitate
+
+> 
 
 ### Lead
 
-Members organise activities, facilitate discussions, mentor others or shape community priorities.
+> 
 
-These are not necessarily fixed stages.
+These are opportunities rather than mandatory stages.
 
-A highly experienced member may be very active in one area and a passive learner in another.
-
----
-
-## Activity: Design your participation pathway
-
-For each level, identify at least one opportunity your community could provide.
-
-| Participation level | What could members do? |
-|---|---|
-| **Observe** | |
-| **Ask** | |
-| **Contribute** | |
-| **Collaborate** | |
-| **Lead** | |
+A member might contribute heavily in one area while remaining a learner in another.
 
 ---
+
+# 3.5 Create a member profile
+
+Use a profile to capture what you have learned about a member group.
+
+### Member group
+
+> 
+
+### What matters to them
+
+> 
+
+### Needs
+
+> 
+
+### Assets and expertise
+
+> 
+
+### Motivations
+
+> 
+
+### Barriers
+
+> 
+
+### Preferred ways of participating
+
+> 
+
+### How we learned this
+
+> 
+
+### What still needs to be validated
+
+> 
 
 # 3.6 Create member personas
 
@@ -444,19 +402,29 @@ These will become the foundation for designing your community's activities, comm
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-This section draws on the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly its emphasis on understanding different community member types, their needs, motivations and participation.
+### Additional open source
 
-It also reflects the broader Communities of Practice perspective that communities develop through interaction between practitioners rather than through the provision of information alone.
+This section draws on the Community Tool Box's approach to community needs and resources assessment. The Community Tool Box emphasises understanding both community needs and existing assets, involving community members in assessment and using their perspectives to inform planning.
 
-### Key sources
+**Reference:**  
+Center for Community Health and Development, University of Kansas. *Community Tool Box: Assessing Community Needs and Resources.*
 
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+The Community Tool Box is licensed under **CC BY-NC-SA 4.0**. :contentReference[oaicite:6]{index=6}
 
-**Our synthesis:** The member-mapping table, participation pathway and persona template have been developed for this guide as practical tools for scientific CoP development. They should not be interpreted as frameworks originating solely from CSCCE or Wenger-Trayner.
+[Explore the Community Tool Box →](https://ctb.ku.edu/)
 
+### Additional evidence
+
+The Wenger-Trayner guidebook emphasises the importance of the people involved in a Community of Practice, the relationships they develop and the commitment they bring to the domain and shared practice.
+
+**Reference:**  
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
+
+### Our synthesis
+
+The needs-and-assets map, member profile and participation questions were developed specifically for this guide.
 ---
 
 **[Next: Design participation and belonging →](04-design-participation-and-belonging.html)**
