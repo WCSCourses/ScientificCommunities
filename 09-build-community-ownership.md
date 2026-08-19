@@ -44,7 +44,7 @@ Ask:
 
 ---
 
-# Activity: Assess your current level of ownership
+## Activity: Assess your current level of ownership
 
 Think about your community today.
 
@@ -104,7 +104,7 @@ Small responsibilities can help members build confidence and discover that they 
 
 ---
 
-# Activity: Create a leadership ladder
+## Activity: Create a leadership ladder
 
 | Responsibility | Time commitment | Skills needed | Support provided |
 |---|---:|---|---|
@@ -194,7 +194,7 @@ The goal is to create **multiple pathways towards ownership**.
 
 ---
 
-# Activity: Transfer one activity
+## Activity: Transfer one activity
 
 Choose one recurring activity.
 
@@ -422,16 +422,7 @@ Activity organiser
 Working-group lead
     ↓
 Community steward
-
----
-
-**Normal Markdown resumes:**
-
-```text
-Not everyone needs to progress through every stage.
-
-The purpose is to make opportunities visible rather than create a hierarchy.
-
+```
 # 9.13 Ask members what they want to own
 
 Do not assume what members want to lead.
