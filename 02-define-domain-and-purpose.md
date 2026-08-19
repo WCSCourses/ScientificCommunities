@@ -5,17 +5,23 @@ title: Define your domain and purpose
 
 # 2. Define your domain and purpose
 
-A strong community starts with a strong reason to exist.
+A strong Community of Practice starts with a clear reason to exist.
 
 Before deciding on platforms, events, branding or membership numbers, define:
 
 1. **What is the community's domain?**
-2. **What do members want to achieve or learn together?**
+2. **What do members want to learn, develop or accomplish together?**
 3. **Why is a community the right way to do this?**
 
-A Community of Practice is built around a shared domain, a community of people who interact around that domain, and a developing shared practice.
+A Community of Practice develops through the combination of three elements:
 
-The three should evolve together.
+**Domain + Community + Practice**
+
+The domain gives the community its identity.  
+The community provides the relationships and interactions through which people learn.  
+The practice is the knowledge, experience, tools, resources and approaches that members develop together.
+
+These three elements should develop together over time.
 
 ---
 
@@ -35,11 +41,9 @@ It should be specific enough that people recognise what connects them, but broad
 | Science | Scientific community engagement |
 | Training | Training and mentorship for genomics practitioners |
 
-### Ask yourself
+### Your turn
 
-> What specific area of practice brings these people together?
-
-Write your first draft:
+> **What specific area of practice brings these people together?**
 
 **Our domain is:**
 
@@ -53,7 +57,7 @@ A domain alone is not enough.
 
 Ask:
 
-> What problem, opportunity or challenge do members have in common?
+> **What problem, opportunity or challenge do members have in common?**
 
 For example:
 
@@ -65,13 +69,13 @@ For example:
 
 ### Complete the sentence
 
-> People in our domain currently struggle with...
+> **People in our domain currently struggle with...**
 
 > ...
 
 ---
 
-## 2.3 Define the collective value
+## 2.3 Identify the collective value
 
 Now ask:
 
@@ -107,19 +111,19 @@ Members experiment with new approaches and develop new practices.
 
 ### Collective voice
 
-Members can identify common challenges and develop a shared perspective.
+Members identify common challenges and develop a shared perspective.
 
 ---
 
 ## Activity: The "because we're together" test
 
-Complete this sentence:
+Complete both sentences:
 
 > **If these people were not connected, they would struggle to...**
 
 > ...
 
-Now complete:
+And:
 
 > **Because they are connected, they can...**
 
@@ -129,9 +133,9 @@ The second statement should describe something meaningful that emerges from the 
 
 ---
 
-# 2.4 Define the purpose
+## 2.4 Define the purpose
 
-Your purpose should describe **why the community exists**, rather than simply listing what activities it will organise.
+Your purpose should describe **why the community exists**, rather than simply listing the activities it will organise.
 
 ### Weak
 
@@ -149,15 +153,15 @@ This describes purpose.
 
 ## Purpose formula
 
-Try:
+Try completing:
 
 > **We bring together [WHO] around [DOMAIN] to [SHARED PURPOSE].**
 
-For example:
+### Example
 
 > We bring together bioinformatics practitioners across Southern Africa around genomic surveillance for antimicrobial resistance to share expertise, strengthen regional capacity and develop collaborative solutions.
 
-Write yours:
+### Your version
 
 > **We bring together...**
 
@@ -165,13 +169,13 @@ Write yours:
 
 ---
 
-# 2.5 Define 3–5 objectives
+## 2.5 Define 3–5 objectives
 
 Once the purpose is clear, identify a small number of objectives.
 
 Good objectives describe what the community wants to achieve through collective action.
 
-Examples:
+Possible objectives include:
 
 - Facilitate peer-to-peer learning.
 - Share practical approaches and resources.
@@ -208,7 +212,7 @@ Examples:
 
 ---
 
-# 2.6 Don't over-engineer the purpose
+## 2.6 Keep the purpose adaptable
 
 Your first version does not need to be perfect.
 
@@ -223,13 +227,13 @@ As members interact, you may discover:
 - new opportunities
 - activities that are not creating value
 
-The purpose should therefore provide direction without becoming a rigid contract.
+Your purpose should therefore provide direction without becoming a rigid contract.
 
-Review it periodically.
+Plan to review it periodically.
 
 ---
 
-# 2.7 Check your purpose
+# Checkpoint
 
 Before moving on, ask:
 
@@ -243,11 +247,11 @@ Before moving on, ask:
 | Can members see how they could contribute? | ☐ | ☐ |
 | Is the purpose broad enough to evolve? | ☐ | ☐ |
 
-If several answers are "Not yet", go back and refine the previous sections.
+If several answers are **Not yet**, go back and refine the previous sections.
 
 ---
 
-## Your output
+# Your output
 
 You should now have:
 
@@ -277,4 +281,6 @@ You should now have:
 
 Save these in your **Community Blueprint**.
 
-**[Next: Understand your members →](03-understand-your-members.md)**
+---
+
+**[Next: Understand your members →](03-understand-your-members.html)**
