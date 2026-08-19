@@ -7,8 +7,6 @@ title: Sources & foundations
 
 This guide is an independent synthesis of research, publicly available resources and practical experience relating to Communities of Practice, scientific community engagement, participatory planning and collaborative leadership.
 
-It does not reproduce proprietary course materials, slides, worksheets, activities or diagrams.
-
 Where an established concept or framework is used, the original source is identified. Where a practical tool has been developed specifically for this guide, it is identified as **Our synthesis**.
 
 ---
