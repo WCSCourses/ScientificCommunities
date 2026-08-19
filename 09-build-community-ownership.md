@@ -434,6 +434,8 @@ For example:
 >
 >Community steward
 
+Not everyone needs to progress through every stage.
+The purpose is to make opportunities visible rather than create a hierarchy.
 ---
 
 # 9.13 Ask members what they want to own
