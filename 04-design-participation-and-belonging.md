@@ -46,7 +46,7 @@ Do not assume that the most visible members are the only valuable members.
 
 ---
 
-# The participation pathway
+# A practical participation model for this guide
 
 Think about participation as a range of possibilities:
 
@@ -401,21 +401,23 @@ Update your **Community Blueprint** with:
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-This section draws on community-engagement approaches presented in the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly the emphasis on member participation, engagement, belonging and designing opportunities around members' needs.
+### Primary source
 
-It also draws on Wenger-Trayner and Wenger-Trayner's understanding of Communities of Practice as spaces where practitioners learn through interaction, contribute to a shared practice and develop relationships over time.
+Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
 
-The principles of listening to quieter voices, building trust and creating opportunities for members to contribute are also consistent with the collaborative leadership practices described by Robinson in *The Less Visible Leader*.
+[Read the original introduction →](https://www.wenger-trayner.com/introduction-to-communities-of-practice/)
 
-### Key sources
+### Additional source
 
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
-- Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
 
-**Our synthesis:** The "Observe → Ask → Contribute → Collaborate → Lead" pathway and the first-30-days exercise were developed for this guide as practical adaptations of these ideas.
+Robinson's work discusses listening, trust, engagement, power and creating space for others to contribute. These principles are applied here to scientific CoPs rather than reproduced from the original report. :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}
+
+### Our synthesis
+
+The participation pathway, first-30-days exercise and relationship-opportunity exercises were developed specifically for this guide.
 
 ---
 
