@@ -524,6 +524,18 @@ Add to your **Community Blueprint**:
 
 ---
 
+## Related tool
+
+**[Activity Design Canvas →](toolkit/activity-design-canvas.html)**
+
+Use the canvas to design activities around a genuine community need, meaningful member contribution and a clear desired outcome.
+
+---
+
+**[Next: Build community ownership →](09-build-community-ownership.html)**
+
+---
+
 ## Sources & evidence
 
 ### Primary source
