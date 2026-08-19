@@ -58,6 +58,12 @@ Move from organiser-led activity towards shared responsibility, member leadershi
 
 **[Build community ownership →](09-build-community-ownership.html)**
 
+### 10. Evaluate community health, value and impact
+
+Move beyond attendance and membership numbers. Assess participation, relationships, learning, changes in practice, collaboration and wider outcomes.
+
+**[Evaluate community health, value and impact →](10-evaluate-community-health.html)**
+
 ---
 
 ## Practical toolkit
@@ -72,6 +78,7 @@ Use these templates alongside the framework to design and run your Community of 
 - **[90-Day Launch Plan →](toolkit/90-day-launch-plan.html)** — turn your community design into a practical first three months.
 - **[Activity Design Canvas →](toolkit/activity-design-canvas.html)** — design activities around a genuine community need and meaningful member participation.
 - **[Community Ownership Canvas →](toolkit/community-ownership-canvas.html)** — assess and strengthen member ownership, distributed responsibility and succession.
+- **[Community Evaluation Canvas →](toolkit/community-evaluation-canvas.html)** — evaluate participation, engagement, relationships, learning, outcomes and community health.
 
 ---
 
