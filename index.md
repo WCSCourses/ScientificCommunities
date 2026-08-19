@@ -52,29 +52,26 @@ Choose activities based on what the community needs — from peer problem-solvin
 
 **[Design community activities →](08-facilitate-community-activities.html)**
 
+### 9. Build community ownership
+
+Move from organiser-led activity towards shared responsibility, member leadership and sustainable succession.
+
+**[Build community ownership →](09-build-community-ownership.html)**
+
 ---
 
 ## Practical toolkit
 
 Use these templates alongside the framework to design and run your Community of Practice.
 
-- **[Community Blueprint →](toolkit/community-blueprint.html)**  
-  Bring together the key decisions about your community in one place.
-
-- **[Member Profile →](toolkit/member-persona.html)**  
-  Understand members' needs, motivations, assets and barriers.
-
-- **[Participation Canvas →](toolkit/participation-canvas.html)**  
-  Design different ways for members to participate and contribute.
-
-- **[Governance Canvas →](toolkit/governance-canvas.html)**  
-  Define leadership, decision-making and shared responsibility.
-
-- **[Communication Canvas →](toolkit/communication-canvas.html)**  
-  Decide what communication infrastructure your community actually needs.
-
-- **[90-Day Launch Plan →](toolkit/90-day-launch-plan.html)**  
-  Turn your community design into a practical first three months.
+- **[Community Blueprint →](toolkit/community-blueprint.html)** — bring together the key decisions about your community in one place.
+- **[Member Profile →](toolkit/member-persona.html)** — understand members' needs, motivations, assets and barriers.
+- **[Participation Canvas →](toolkit/participation-canvas.html)** — design different ways for members to participate and contribute.
+- **[Governance Canvas →](toolkit/governance-canvas.html)** — define leadership, decision-making and shared responsibility.
+- **[Communication Canvas →](toolkit/communication-canvas.html)** — decide what communication infrastructure your community actually needs.
+- **[90-Day Launch Plan →](toolkit/90-day-launch-plan.html)** — turn your community design into a practical first three months.
+- **[Activity Design Canvas →](toolkit/activity-design-canvas.html)** — design activities around a genuine community need and meaningful member participation.
+- **[Community Ownership Canvas →](toolkit/community-ownership-canvas.html)** — assess and strengthen member ownership, distributed responsibility and succession.
 
 ---
 
