@@ -21,3 +21,9 @@ Identify what brings people together, what they want to learn or accomplish toge
 Identify who your community is for, what different members need, what motivates them and what they can contribute.
 
 **[Understand your members →](03-understand-your-members.html)**
+
+### 4. Design participation and belonging
+
+Create meaningful ways for people to participate, contribute, connect and develop a sense of belonging.
+
+**[Design participation →](04-design-participation-and-belonging.html)**
