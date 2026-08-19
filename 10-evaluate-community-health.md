@@ -710,3 +710,15 @@ Robinson highlights the importance of measuring the quality of relationships rat
 
 The three-level evaluation model, Community Health Check, indicator-selection table, evidence-chain model and decision framework were developed specifically for this guide. They are intended as practical evaluation tools rather than prescribed CoP evaluation frameworks.
 
+---
+
+## Related tool
+
+**[Community Evaluation Canvas →](toolkit/community-evaluation-canvas.html)**
+
+Use the canvas to select meaningful indicators, collect evidence and periodically assess the health, value and impact of your Community of Practice.
+
+---
+
+**[Next: Sustain and evolve the community →](11-sustain-and-evolve.html)**
+
