@@ -5,155 +5,143 @@ title: Sources & foundations
 
 # Sources & foundations
 
-This guide synthesises established research and practice on Communities of Practice, scientific community engagement and collaborative leadership into a practical framework for scientific communities.
+This guide is an independent synthesis of research, publicly available resources and practical experience relating to Communities of Practice, scientific community engagement, participatory planning and collaborative leadership.
 
-It does not present all of the tools and frameworks in this guide as original. Where an idea, framework or principle can be attributed to a particular source, that source is identified.
+It does not reproduce proprietary course materials, slides, worksheets, activities or diagrams.
 
-Where several sources have informed an exercise or framework, they are listed as **Sources & influences**.
-
-Where a tool has been developed specifically for this guide by combining ideas from several sources, it is identified as **Our synthesis**.
+Where an established concept or framework is used, the original source is identified. Where a practical tool has been developed specifically for this guide, it is identified as **Our synthesis**.
 
 ---
 
-# Core sources
+## Core sources
 
-## Wenger-Trayner & Wenger-Trayner
+### Wenger-Trayner & Wenger-Trayner
 
-Wenger-Trayner and Wenger-Trayner provide the principal theoretical foundation for the Community of Practice concept used in this guide.
+Wenger-Trayner and Wenger-Trayner provide the principal theoretical foundation for the Community of Practice concept used throughout this guide.
 
-Their work describes Communities of Practice through three interconnected elements:
+Their work describes Communities of Practice through the interconnected ideas of:
 
-- **Domain** — the area of shared interest or practice
-- **Community** — the people who interact and learn together
-- **Practice** — the shared repertoire of knowledge, experiences, tools and approaches that develops through interaction
+- domain
+- community
+- practice
 
-They also distinguish Communities of Practice from simple networks, websites, forums or groups of people who happen to share a profession.
+It also emphasises collective learning through interaction and distinguishes Communities of Practice from simple networks or online platforms.
 
-### Reference
+**Reference:**
 
 Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
 
----
+[Read the introduction →](https://www.wenger-trayner.com/introduction-to-communities-of-practice/)
 
-## Center for Scientific Collaboration and Community Engagement (CSCCE)
+A more recent practical source is:
 
-The CSCCE's **Scientific Community Engagement Fundamentals** course provides an important practical foundation for this guide, particularly around community development, member engagement, participation, community structure and the practical work of building and sustaining communities.
-
-The course material is treated here as a source of the frameworks and approaches as they are presented in the course.
-
-Where the underlying origin of a particular framework can be established, the original source is also acknowledged.
-
-### Reference
-
-Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
 
 ---
 
-## Charles Vogl — The Art of Community
+## Center for Scientific Collaboration and Community Engagement
 
-Charles Vogl's *The Art of Community* provides a complementary perspective focused on the conditions that help communities become meaningful, cohesive and enduring.
+The Center for Scientific Collaboration and Community Engagement (CSCCE) is an important influence on the broader field of scientific community engagement and on the author's professional learning.
 
-This guide draws on this work where relevant to:
+The author completed the **Scientific Community Engagement Fundamentals** course.
 
-- belonging
-- community identity
-- welcoming and initiation
-- shared rituals
-- stories and symbols
-- deeper participation
+This guide does **not** reproduce CSCCE course slides, worksheets, activities, diagrams or other course materials.
 
-Specific concepts will be attributed to Vogl when they are directly adapted or used.
+Where CSCCE has publicly released resources under a licence permitting reuse, the specific resource and licence should be checked before reuse.
 
-### Reference
+Readers interested in professional scientific community engagement are encouraged to consult CSCCE's original resources and training.
+
+---
+
+## The Art of Community
+
+Charles Vogl's work provides a complementary perspective on community identity, belonging, initiation, rituals, stories, symbols and deeper participation.
+
+Specific concepts will be cited when directly used.
+
+**Reference:**
 
 Vogl, C. (2016). *The Art of Community: Seven Principles for Belonging*. Berrett-Koehler Publishers.
 
-> **Note:** Where a framework is presented in the CSCCE course and may itself draw on Vogl or another source, this guide will identify both sources when the provenance can be verified rather than assuming that CSCCE originated the framework.
+This guide does not reproduce Vogl's worksheets or proprietary exercises.
 
 ---
 
-## Andy Robinson — The Less Visible Leader
+## The Less Visible Leader
 
-Robinson's *The Less Visible Leader* provides a complementary leadership perspective for communities that operate across organisational boundaries.
+Andy Robinson's *The Less Visible Leader* provides a complementary perspective on collaborative and network leadership.
 
-It is particularly relevant to this guide's approach to:
+It is particularly relevant to:
 
-- shared power
-- distributed leadership
 - trust
 - listening
-- creating space for others to lead
-- working with ambiguity
-- coordination and infrastructure
-- conflict
-- long-term adaptation
+- shared power
+- distributed leadership
+- coordination
+- infrastructure
+- navigating ambiguity
+- adaptation
 
-Although the report focuses on environmental networks, coalitions and collaboratives rather than scientific Communities of Practice, many of its leadership principles are relevant to cross-institutional scientific communities.
+The original report focuses on environmental networks, coalitions and collaboratives rather than scientific Communities of Practice. Its principles are therefore used here as an additional perspective rather than as a CoP framework.
 
-### Reference
+**Reference:**
 
 Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
 
 ---
 
-# How to interpret the sources
+## Open practical resources
 
-## Direct source
+### Community Tool Box
 
-A concept is labelled as a **direct source** when the guide is explicitly using a concept or framework developed by the cited author or organisation.
+The Community Tool Box is an openly licensed resource from the Center for Community Health and Development at the University of Kansas.
 
-Example:
+It provides practical guidance on:
 
-> The domain–community–practice model is based on Wenger-Trayner and Wenger-Trayner.
-
----
-
-## Adaptation
-
-A concept is labelled **Adapted from** when an existing framework has been modified for scientific Communities of Practice.
-
-Example:
-
-> Adapted from Robinson (2012) for scientific Communities of Practice.
-
----
-
-## Sources & influences
-
-This label is used when several sources have contributed to the way a section has been designed.
-
----
-
-## Our synthesis
-
-This label is used for frameworks, exercises, templates or tools developed specifically for this guide by combining ideas from multiple sources.
-
-Examples include:
-
-- Community Blueprint
-- Participation Canvas
-- Governance Canvas
-- Communication Canvas
-- the "because we're together" test
-- the participation pathway
-
-These should not be attributed to any single source.
-
----
-
-# Additional sources
-
-As the guide develops, additional research, frameworks and practical resources will be added here.
-
-Sources will be included particularly where they provide evidence or established practice relating to:
-
-- community lifecycle
-- community health
-- evaluation and impact
-- network analysis
-- inclusion and belonging
-- scientific collaboration
-- online community design
-- facilitation
-- mentoring
+- community assessment
+- identifying needs and assets
+- participatory planning
+- leadership
+- participation
+- evaluation
 - sustainability
+
+The Community Tool Box is licensed under **CC BY-NC-SA 4.0**. :contentReference[oaicite:13]{index=13}
+
+[Visit the Community Tool Box →](https://ctb.ku.edu/)
+
+---
+
+## Peer-reviewed evidence
+
+The guide will incorporate peer-reviewed evidence where appropriate, particularly where claims concern:
+
+- effectiveness
+- participation
+- learning
+- knowledge sharing
+- community health
+- evaluation
+- scientific collaboration
+
+For example, research on virtual Communities of Practice identifies potential benefits including knowledge sharing and connectedness while also highlighting gaps in how their effectiveness is measured. :contentReference[oaicite:14]{index=14}
+
+---
+
+# Attribution principles
+
+Throughout the guide:
+
+**Primary source**  
+The original source of a concept or framework.
+
+**Additional evidence**  
+Research or resources that support, qualify or extend the idea.
+
+**Adaptation**  
+An established idea applied to the context of scientific Communities of Practice.
+
+**Our synthesis**  
+An original tool or framework developed for this guide by combining ideas from multiple sources.
+
+The guide does not treat attribution as permission to reproduce copyrighted material. Copyright permissions and licences are checked separately.
