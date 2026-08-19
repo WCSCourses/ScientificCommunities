@@ -444,4 +444,19 @@ These will become the foundation for designing your community's activities, comm
 
 ---
 
+## Sources & influences
+
+This section draws on the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly its emphasis on understanding different community member types, their needs, motivations and participation.
+
+It also reflects the broader Communities of Practice perspective that communities develop through interaction between practitioners rather than through the provision of information alone.
+
+### Key sources
+
+- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
+
+**Our synthesis:** The member-mapping table, participation pathway and persona template have been developed for this guide as practical tools for scientific CoP development. They should not be interpreted as frameworks originating solely from CSCCE or Wenger-Trayner.
+
+---
+
 **[Next: Design participation and belonging →](04-design-participation-and-belonging.html)**
