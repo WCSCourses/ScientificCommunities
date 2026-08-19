@@ -206,18 +206,29 @@ If you cannot answer these questions yet, spend more time here.
 
 ---
 
-## Sources & influences
+## Sources & evidence
 
-This section is primarily based on the Community of Practice framework developed by Etienne Wenger and colleagues, particularly the distinction between **domain, community and practice** and the emphasis on learning through sustained interaction. It has been adapted here for people developing scientific communities of practice.
+### Primary source
 
-The section also draws on the **Scientific Community Engagement Fundamentals** course from the Center for Scientific Collaboration and Community Engagement (CSCCE), particularly its practical approach to community development.
+The definition of a Community of Practice and the distinction between **domain, community and practice** are based on Wenger-Trayner and Wenger-Trayner's work.
 
-### Key sources
+Wenger-Trayner and Wenger-Trayner describe Communities of Practice as groups who share a concern or passion and learn to do something better through regular interaction. They emphasise that a CoP involves a shared **domain**, a **community** of people who interact, and a developing **practice**. 
 
-- Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
-- Center for Scientific Collaboration and Community Engagement (CSCCE). *Scientific Community Engagement Fundamentals.*
+**Reference:**  
+Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to communities of practice: A brief overview of the concept and its uses.*
 
-**Adaptation:** The diagnostic questions and exercises on this page were developed for this guide to help scientific practitioners assess whether a Community of Practice is an appropriate approach.
+[Read the original introduction →](https://www.wenger-trayner.com/introduction-to-communities-of-practice/)
+
+### Additional evidence
+
+Research on Communities of Practice cautions against using the term loosely. A critical review of CoP research found that many studies use the concept in ways that do not accurately reflect the underlying theory. This guide therefore uses the term deliberately rather than treating every professional network or online group as a CoP.
+
+**Reference:**  
+Li, L. et al. (2020). *You say it, we say it, but how do we use it? Communities of practice: A critical analysis.*
+
+### Our synthesis
+
+The diagnostic questions and "CoP test" on this page are original tools developed for this guide. They are intended to help scientific practitioners assess whether a Community of Practice is an appropriate approach; they are not reproduced from a CSCCE course activity.
 
 ---
 
