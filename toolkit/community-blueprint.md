@@ -3,273 +3,472 @@ layout: default
 title: Community Blueprint
 ---
 
-# Community of Practice Blueprint
+# Community Blueprint
 
-Use this worksheet to capture the decisions you make while developing your community.
+<div class="toolkit-intro">
 
-You can copy this template and create a working version for your own community.
+<p class="toolkit-purpose"><strong>What this tool is for:</strong> Use this worksheet to bring the key decisions about your Community of Practice together in one place.</p>
 
----
+<p>The blueprint is a living document. You do not need to complete everything before launching your community. Use it to make your thinking visible, identify gaps and guide conversations with members.</p>
 
-# 1. Community identity
+</div>
 
-## Working name
+<div class="toolkit-meta">
 
-> 
+<div class="toolkit-meta-box">
+<strong>Use this when</strong>
+You are defining or reviewing your community.
+</div>
 
-## Domain
+<div class="toolkit-meta-box">
+<strong>Work on it</strong>
+Individually or with your founding group.
+</div>
 
-> 
+</div>
 
-## Shared challenge
+## How to use this tool
 
-> 
-
-## Purpose
-
-> 
-
----
-
-# 2. Collective value
-
-What can members achieve together that would be difficult to achieve individually?
-
-> 
+1. Work through the sections that are most relevant to your current stage.
+2. Discuss your answers with potential members where possible.
+3. Do not aim for perfect answers — record your current thinking.
+4. Revisit the blueprint as your community develops.
 
 ---
 
-# 3. Objectives
+## 1. Community identity
 
-### Objective 1
+### Working name
 
-> 
+<div class="response-area"></div>
 
-### Objective 2
+### Shared domain
 
-> 
+What area of practice, knowledge or challenge brings members together?
 
-### Objective 3
+<div class="response-area"></div>
 
-> 
+### Purpose
 
-### Objective 4
+Why does this community need to exist?
 
-> 
+<div class="response-area large"></div>
 
-### Objective 5
+### Short description
 
-> 
+Describe the community in 2–3 sentences.
 
----
-
-# 4. Members
-
-## Who is the community for?
-
-> 
-
-## Who are the different member groups?
-
-> 
-
-## What does each group need?
-
-> 
-
-## What can each group contribute?
-
-> 
+<div class="response-area"></div>
 
 ---
 
-# 5. Participation
+## 2. Collective value
 
-How can someone participate?
+A Community of Practice creates value through the interaction between its members. Think about what members might achieve together that would be harder to achieve alone.
 
-### Observe
+### What can members learn from one another?
 
-> 
+<div class="response-area"></div>
 
-### Ask
+### What can members create together?
 
-> 
+<div class="response-area"></div>
 
-### Contribute
+### What problems can the community help members solve?
 
-> 
+<div class="response-area"></div>
 
-### Collaborate
+### What becomes possible because these people are connected?
 
-> 
-
-### Lead
-
-> 
+<div class="response-area large"></div>
 
 ---
 
-# 6. Community activities
+## 3. Objectives
 
-What activities will create value?
+Identify the most important things you want the community to achieve.
 
-- [ ] Peer problem-solving
-- [ ] Discussion
-- [ ] Webinars/seminars
-- [ ] Workshops
-- [ ] Mentoring
-- [ ] Resource sharing
-- [ ] Collaborative projects
-- [ ] Training
-- [ ] Working groups
-- [ ] Community meet-ups
-- [ ] Other:
+| Objective | Why does it matter? | How will we know? |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
 
----
+### Which objectives matter most at the beginning?
 
-# 7. Communication
-
-## Primary communication channel
-
-> 
-
-## Secondary channels
-
-> 
-
-## What belongs on each channel?
-
-> 
+<div class="response-area"></div>
 
 ---
 
-# 8. Leadership
+## 4. Members
 
-## Who coordinates the community?
+### Who is the community for?
 
-> 
+Describe the people you want to participate.
 
-## Who makes decisions?
+<div class="response-area large"></div>
 
-> 
+### What do members have in common?
 
-## How can members take leadership?
+<div class="response-area"></div>
 
-> 
+### What different perspectives, expertise or experiences will members bring?
 
-## How will leadership be shared over time?
+<div class="response-area"></div>
 
-> 
+### What might members need from the community?
 
----
+<div class="response-area"></div>
 
-# 9. Engagement rhythm
+### What might members contribute?
 
-### Weekly
+<div class="response-area"></div>
 
-> 
+### Who might be missing?
 
-### Monthly
+Think about people whose perspectives or experiences would strengthen the community.
 
-> 
-
-### Quarterly
-
-> 
-
-### Annual
-
-> 
+<div class="response-area"></div>
 
 ---
 
-# 10. Shared practice
+## 5. Participation
 
-What knowledge, resources or practices should the community develop together?
+Members can participate in different ways and at different levels.
 
-> 
-
-Examples:
-
-- protocols
-- guides
-- training materials
-- code
-- datasets
-- case studies
-- FAQs
-- lessons learned
-- best-practice resources
-
----
-
-# 11. Community health
-
-How will you know whether the community is healthy?
+### What kinds of participation will be possible?
 
 Consider:
 
-- participation
-- contribution
+- observing and listening
+- asking questions
+- answering questions
+- sharing experience
+- sharing resources
+- contributing to discussions
+- attending activities
+- collaborating with other members
+- mentoring or supporting others
+- organising activities
+- taking leadership responsibilities
+
+<div class="response-area large"></div>
+
+### What would make participation easy?
+
+<div class="response-area"></div>
+
+### What might prevent people from participating?
+
+<div class="response-area"></div>
+
+### How will you make different forms of participation visible and valued?
+
+<div class="response-area"></div>
+
+---
+
+## 6. Activities
+
+Think about the activities through which members will interact and learn from one another.
+
+### What activities could the community offer?
+
+| Activity | Purpose | Who could lead it? | Frequency |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+### Which activities should happen first?
+
+<div class="response-area"></div>
+
+### What real community needs should these activities respond to?
+
+<div class="response-area"></div>
+
+---
+
+## 7. Communication
+
+### How will members communicate?
+
+Consider:
+
+- email
+- discussion forums
+- messaging platforms
+- online meetings
+- in-person meetings
+- newsletters
+- collaborative documents
+- social or professional networks
+- other channels
+
+<div class="response-area"></div>
+
+### What information needs to be communicated?
+
+<div class="response-area"></div>
+
+### Where will shared resources be stored?
+
+<div class="response-area"></div>
+
+### How will members know where to find things?
+
+<div class="response-area"></div>
+
+### What communication should happen regularly?
+
+<div class="response-area"></div>
+
+---
+
+## 8. Leadership and governance
+
+### Who will initially coordinate the community?
+
+<div class="response-area"></div>
+
+### What responsibilities need to be covered?
+
+| Responsibility | Initial owner | Could this be shared later? |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+### How will decisions be made?
+
+<div class="response-area"></div>
+
+### Which decisions should members be involved in?
+
+<div class="response-area"></div>
+
+### How could leadership become more distributed over time?
+
+<div class="response-area large"></div>
+
+---
+
+## 9. Community rhythm
+
+A sustainable community needs a rhythm of interaction that is useful without becoming burdensome.
+
+### How often will members interact?
+
+<div class="response-area"></div>
+
+### What regular activities will create continuity?
+
+<div class="response-area"></div>
+
+### What can happen between formal activities?
+
+<div class="response-area"></div>
+
+### How much time should members realistically need to participate?
+
+<div class="response-area"></div>
+
+### How will you avoid overloading members?
+
+<div class="response-area"></div>
+
+---
+
+## 10. Shared practice
+
+The community should create opportunities for members to develop their practice, not simply exchange information.
+
+### What knowledge, experience or resources should the community develop together?
+
+<div class="response-area"></div>
+
+### What practices might evolve through community interaction?
+
+<div class="response-area"></div>
+
+### What could members document or create together?
+
+<div class="response-area"></div>
+
+### How will shared resources be maintained?
+
+<div class="response-area"></div>
+
+### How will members learn from one another's experience?
+
+<div class="response-area large"></div>
+
+---
+
+## 11. Community health
+
+Think about what a healthy community would look and feel like.
+
+### What would tell you that members are finding value in participating?
+
+<div class="response-area"></div>
+
+### What would tell you that relationships are developing?
+
+<div class="response-area"></div>
+
+### What would tell you that members are learning from one another?
+
+<div class="response-area"></div>
+
+### What would tell you that members are taking increasing ownership?
+
+<div class="response-area"></div>
+
+### What signs might indicate that the community is becoming unhealthy?
+
+<div class="response-area"></div>
+
+---
+
+## 12. Impact
+
+### What changes do you hope the community will contribute to?
+
+Consider changes in:
+
+- knowledge
+- skills
+- confidence
 - relationships
-- belonging
-- learning
 - collaboration
-- leadership
-- shared outputs
+- research practice
+- organisational practice
+- wider scientific practice
 
-### Indicators
+<div class="response-area large"></div>
 
-> 
+### What might change for individual members?
 
----
+<div class="response-area"></div>
 
-# 12. Impact
+### What might change for the community collectively?
 
-What changes because the community exists?
+<div class="response-area"></div>
 
-### For individuals
+### What might change beyond the community?
 
-> 
-
-### For institutions
-
-> 
-
-### For the wider scientific field
-
-> 
-
-### For society/public health/policy
-
-> 
+<div class="response-area"></div>
 
 ---
 
-# 13. What will we review?
+## 13. Review
 
-### We will review our community every:
+The blueprint should evolve as your community develops.
 
-> 
+### What assumptions are you making?
 
-### We will ask members:
+<div class="response-area"></div>
 
-> 
+### What do you need to test with potential members?
 
-### We will change:
+<div class="response-area"></div>
 
-> 
+### What remains unclear?
+
+<div class="response-area"></div>
+
+### When will you review the blueprint?
+
+<div class="response-area"></div>
+
+### Who will be involved in the review?
+
+<div class="response-area"></div>
+
+---
+
+<div class="toolkit-output">
+
+## Your output
+
+By completing this tool, you should have a first working description of:
+
+- your community's shared domain and purpose;
+- who the community is for;
+- what members can contribute and gain;
+- how people will participate;
+- what activities could create value;
+- how the community will communicate and operate;
+- how leadership and responsibility will be organised;
+- what healthy participation and impact might look like.
+
+You do not need to have all of these decisions finalised before you launch. The blueprint should be revisited as you learn from your members and from the community itself.
+
+</div>
+
+<div class="toolkit-next">
+
+## Next step
+
+Use your blueprint to identify the areas that need more detailed planning.
+
+You can then move to the relevant tools in the toolkit, such as the **Member Profile**, **Participation Canvas**, **Governance Canvas**, **Communication Canvas** or **90-Day Launch Plan**.
+
+</div>
 
 ---
 
 ## Remember
 
-The blueprint is a living document.
+A Community of Practice is not a fixed programme. It will evolve as members interact, learn and develop the community together.
 
-Do not try to complete everything before launching.
+The blueprint is therefore a **living document**, not a one-time planning exercise.
 
-Use it to make your thinking visible, identify gaps and guide conversations with members.
+Return to it periodically and update it as your community develops.
 
 ---
 
-> **About this tool:** This blueprint was developed specifically for this guide. It is an original synthesis of ideas from the Communities of Practice and community-development literature.
+## Related section
+
+**[Define your domain and purpose →](../02-define-domain-and-purpose.html)**
+
+Return to the guide for practical guidance on defining the shared domain, purpose and value of your community.
+
+---
+
+## Sources & foundations
+
+This blueprint is an original synthesis developed for this guide. It draws on established approaches to Communities of Practice and community development.
+
+### Wenger-Trayner & Wenger-Trayner
+
+Wenger-Trayner, E. & Wenger-Trayner, B. (2024). *Communities of Practice in and across Organizations: A Guidebook.*
+
+This source informs the emphasis on shared domain, community, practice, participation, learning, community value and community development.
+
+[Explore the guidebook →](https://www.wenger-trayner.com/cop-guidebook/)
+
+### The Less Visible Leader
+
+Robinson, A. (2012). *The Less Visible Leader: Emerging Leadership Models for Environmental Networks, Coalitions, and Collaboratives*. Institute for Conservation Leadership.
+
+This source informs the emphasis on distributed responsibility, participation, shared leadership and community ownership.
+
+### Community Tool Box
+
+Center for Community Health and Development, University of Kansas. *Community Tool Box.*
+
+The Community Tool Box provides practical guidance on community participation, leadership, planning, evaluation and sustaining community initiatives.
+
+[Explore the Community Tool Box →](https://ctb.ku.edu/)
+
+### About this blueprint
+
+The questions, tables and structure of this blueprint were developed specifically for this guide. They are an original practical synthesis rather than a reproduction of the sources above.
