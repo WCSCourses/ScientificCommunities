@@ -5,11 +5,35 @@ title: Community Evaluation Canvas
 
 # Community Evaluation Canvas
 
-Use this canvas to evaluate whether your Community of Practice is creating meaningful value.
+<div class="toolkit-intro">
 
-The aim is not to measure everything.
+<p class="toolkit-purpose"><strong>What this tool is for:</strong> Use this canvas to evaluate whether your Community of Practice is creating meaningful value.</p>
 
-Instead, use a small number of meaningful indicators to understand participation, engagement, relationships, learning, changes in practice and wider outcomes.
+<p>The aim is not to measure everything. Instead, use a small number of meaningful indicators to understand participation, engagement, relationships, learning, changes in practice and wider outcomes.</p>
+
+</div>
+
+<div class="toolkit-meta">
+
+<div class="toolkit-meta-box">
+<strong>Use this when</strong>
+You are reviewing the health, value or impact of an established community.
+</div>
+
+<div class="toolkit-meta-box">
+<strong>Work on it</strong>
+Periodically with organisers and, where possible, community members.
+</div>
+
+</div>
+
+## How to use this tool
+
+1. Start with the questions you want to answer.
+2. Think about how community activity could lead to meaningful outcomes.
+3. Combine quantitative and qualitative evidence.
+4. Choose a small number of useful indicators.
+5. Review the evidence and decide what the community should do next.
 
 ---
 
@@ -19,35 +43,35 @@ Before choosing indicators, identify the questions that matter.
 
 ### Are people participating?
 
-> 
+<div class="response-area"></div>
 
 ### Are members learning from one another?
 
-> 
+<div class="response-area"></div>
 
 ### Are useful relationships developing?
 
-> 
+<div class="response-area"></div>
 
 ### Is the shared practice evolving?
 
-> 
+<div class="response-area"></div>
 
 ### Are members applying what they learn?
 
-> 
+<div class="response-area"></div>
 
 ### Is the community creating opportunities for collaboration?
 
-> 
+<div class="response-area"></div>
 
 ### Is the community influencing practice beyond its membership?
 
-> 
+<div class="response-area"></div>
 
 ### Is the community becoming more sustainable?
 
-> 
+<div class="response-area"></div>
 
 ---
 
@@ -55,48 +79,65 @@ Before choosing indicators, identify the questions that matter.
 
 Think about how community activity could lead to meaningful outcomes.
 
-```text
-Community activity
-        ↓
-Member interaction
-        ↓
-Learning / relationship
-        ↓
-Change in practice
-        ↓
-Wider outcome
-```
----
+<div class="prompt">
 
-### Describe your own evidence chain
+<strong>Community activity</strong>
 
-**Community activity**
-
-> 
+<br>
 
 ↓
 
-**Member interaction**
+<br>
 
-> 
+<strong>Member interaction</strong>
 
-↓
-
-**Learning or relationship**
-
-> 
+<br>
 
 ↓
 
-**Change in practice**
+<br>
 
-> 
+<strong>Learning / relationship</strong>
+
+<br>
 
 ↓
 
-**Wider outcome**
+<br>
 
-> 
+<strong>Change in practice</strong>
+
+<br>
+
+↓
+
+<br>
+
+<strong>Wider outcome</strong>
+
+</div>
+
+## Describe your own evidence chain
+
+### Community activity
+
+<div class="response-area"></div>
+
+### Member interaction
+
+<div class="response-area"></div>
+
+### Learning or relationship
+
+<div class="response-area"></div>
+
+### Change in practice
+
+<div class="response-area"></div>
+
+### Wider outcome
+
+<div class="response-area large"></div>
 
 ---
 
@@ -116,7 +157,7 @@ Track patterns rather than relying only on total membership.
 
 ### What do these patterns tell us?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -139,11 +180,11 @@ Consider:
 
 ### What forms of engagement are we seeing?
 
-> 
+<div class="response-area large"></div>
 
 ### Which forms are missing?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -183,7 +224,7 @@ Assess whether useful relationships are developing.
 
 ### What is the strongest evidence of relationship-building?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -191,37 +232,39 @@ Assess whether useful relationships are developing.
 
 ### What are members learning?
 
-> 
+<div class="response-area large"></div>
 
 ### What are members doing differently?
 
-> 
+<div class="response-area large"></div>
 
 ### What new practices, skills or approaches are emerging?
 
-> 
+<div class="response-area large"></div>
 
 ### Are members sharing their learning beyond the community?
 
-> 
+<div class="response-area"></div>
 
-### Example of changed practice
+---
 
-**Before participating in the community, I...**
+## Example of changed practice
 
-> 
+### Before participating in the community, I...
 
-**Through the community, I learned...**
+<div class="response-area"></div>
 
-> 
+### Through the community, I learned...
 
-**As a result, I changed...**
+<div class="response-area"></div>
 
-> 
+### As a result, I changed...
 
-**This change has led to...**
+<div class="response-area"></div>
 
-> 
+### This change has led to...
+
+<div class="response-area large"></div>
 
 ---
 
@@ -243,7 +286,7 @@ Look for:
 
 ### What became possible because these people were connected?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -253,19 +296,19 @@ Not all valuable outcomes can be predicted in advance.
 
 ### What happened that we did not plan for?
 
-> 
+<div class="response-area large"></div>
 
 ### What new opportunities emerged?
 
-> 
+<div class="response-area"></div>
 
 ### What new relationships or collaborations emerged?
 
-> 
+<div class="response-area"></div>
 
 ### What unexpected learning occurred?
 
-> 
+<div class="response-area"></div>
 
 ---
 
@@ -282,27 +325,27 @@ Useful evidence might include:
 - examples of problems solved
 - examples of resources being reused
 
-### Member story
+## Member story
 
-**What happened?**
+### What happened?
 
-> 
+<div class="response-area large"></div>
 
-**Who was involved?**
+### Who was involved?
 
-> 
+<div class="response-area"></div>
 
-**What changed?**
+### What changed?
 
-> 
+<div class="response-area"></div>
 
-**What role did the community play?**
+### What role did the community play?
 
-> 
+<div class="response-area large"></div>
 
-**What might not have happened without the community?**
+### What might not have happened without the community?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -323,7 +366,7 @@ Choose no more than **5–10 core indicators**.
 
 ### Why did we choose these indicators?
 
-> 
+<div class="response-area large"></div>
 
 ---
 
@@ -333,31 +376,31 @@ If possible, record the situation before or at the beginning of the community.
 
 ### Existing collaborations
 
-> 
+<div class="response-area"></div>
 
 ### Existing knowledge-sharing practices
 
-> 
+<div class="response-area"></div>
 
 ### Existing relationships
 
-> 
+<div class="response-area"></div>
 
 ### Current training or learning activity
 
-> 
+<div class="response-area"></div>
 
 ### Existing resources
 
-> 
+<div class="response-area"></div>
 
 ### Current challenges
 
-> 
+<div class="response-area large"></div>
 
 ### Other relevant baseline information
 
-> 
+<div class="response-area"></div>
 
 ---
 
@@ -380,6 +423,10 @@ Complete this periodically.
 | Community infrastructure is adequate | ☐ | ☐ | |
 | Responsibility is distributed | ☐ | ☐ | |
 | Evidence of outcomes exists | ☐ | ☐ | |
+
+### What stands out from this health check?
+
+<div class="response-area large"></div>
 
 ---
 
@@ -407,21 +454,53 @@ There is currently insufficient value or capacity to continue.
 
 The community has fulfilled its purpose or is no longer the appropriate mechanism.
 
-### Decision
+---
 
-> 
+## Decision
 
-### Why?
+<div class="response-area"></div>
 
-> 
+## Why?
 
-### What will we change?
+<div class="response-area large"></div>
 
-> 
+## What will we change?
 
-### When will we review this again?
+<div class="response-area large"></div>
 
-> 
+## When will we review this again?
+
+<div class="response-area"></div>
+
+---
+
+<div class="toolkit-output">
+
+## Your output
+
+By completing this canvas, you should have:
+
+- clear questions about what you want to learn;
+- an evidence chain connecting activity to outcomes;
+- a small set of useful indicators;
+- quantitative and qualitative evidence;
+- a baseline where appropriate;
+- an assessment of community health;
+- a decision about what should happen next.
+
+The aim is not to prove that every outcome was caused by the community. Instead, use evidence to understand whether the community is creating meaningful value and what you should learn or change next.
+
+</div>
+
+<div class="toolkit-next">
+
+## Next step
+
+Use the findings to adapt your community.
+
+Return to the **Community Blueprint**, **Participation Canvas**, **Community Ownership Canvas** or other relevant tools when the evaluation identifies something that needs to change.
+
+</div>
 
 ---
 
@@ -429,13 +508,15 @@ The community has fulfilled its purpose or is no longer the appropriate mechanis
 
 **[Evaluate community health, value and impact →](../10-evaluate-community-health.html)**
 
+Return to the guide for practical guidance on evaluating participation, relationships, learning, outcomes and community health.
+
 ---
 
 ## Sources & foundations
 
 ### Wenger-Trayner & Wenger-Trayner
 
-Wenger-Trayner, E. & Wenger-Trayner, B. (2015). *Introduction to Communities of Practice: A Brief Overview of the Concept and its Uses.*
+Wenger-Trayner, E. & Wenger-Trayner (2015). *Introduction to Communities of Practice: A Brief Overview of the Concept and its Uses.*
 
 This source informs the emphasis on assessing CoP value through a combination of quantitative and qualitative evidence, while recognising that attribution of outcomes may be complex.
 
