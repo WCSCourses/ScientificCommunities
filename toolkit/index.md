@@ -63,7 +63,7 @@ Use it to clarify your:
 - shared practice;
 - health and impact.
 
-**[Open the Community Blueprint →](community-blueprint.html)**
+**[Open the Community Blueprint →](community-blueprint.md)**
 
 </div>
 
