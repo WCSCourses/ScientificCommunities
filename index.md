@@ -5,7 +5,7 @@ title: Scientific Communities of Practice
 
 <div class="hero">
 
-<h1>Building a Scientific Community of Practice</h1>
+<h1>A Guide to Building a Scientific Community of Practice</h1>
 
 <p>A practical, interactive guide to designing, launching, facilitating and sustaining a community where scientists learn from one another, share expertise and build lasting connections.</p>
 
