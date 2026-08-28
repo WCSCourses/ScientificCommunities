@@ -82,7 +82,7 @@ Use it to explore:
 - barriers to participation;
 - pathways towards deeper involvement.
 
-**[Open the Member Profile →](member-persona.html)**
+**[Open the Member Profile →](member-persona.md)**
 
 </div>
 
@@ -104,7 +104,7 @@ Use it to think about:
 - engagement rhythm;
 - member contribution.
 
-**[Open the Participation Canvas →](participation-canvas.html)**
+**[Open the Participation Canvas →](participation-canvas.md)**
 
 </div>
 
@@ -124,7 +124,7 @@ Use it to think about:
 - continuity;
 - governance review.
 
-**[Open the Governance Canvas →](governance-canvas.html)**
+**[Open the Governance Canvas →](governance-canvas.md)**
 
 </div>
 
@@ -147,7 +147,7 @@ Use it to plan:
 - infrastructure ownership;
 - minimum viable infrastructure.
 
-**[Open the Communication & Infrastructure Canvas →](communication-canvas.html)**
+**[Open the Communication & Infrastructure Canvas →](communication-canvas.md)**
 
 </div>
 
@@ -171,7 +171,7 @@ Use it to plan:
 - Month 3 — Co-create;
 - your 90-day review.
 
-**[Open the 90-Day Launch Plan →](90-day-launch-plan.html)**
+**[Open the 90-Day Launch Plan →](90-day-launch-plan.md)**
 
 </div>
 
@@ -193,7 +193,7 @@ Use it to plan:
 - follow-up;
 - review.
 
-**[Open the Activity Design Canvas →](activity-design-canvas.html)**
+**[Open the Activity Design Canvas →](activity-design-canvas.md)**
 
 </div>
 
@@ -218,7 +218,7 @@ Use it to explore:
 - recognition;
 - community ownership.
 
-**[Open the Community Ownership Canvas →](community-ownership-canvas.html)**
+**[Open the Community Ownership Canvas →](community-ownership-canvas.md)**
 
 </div>
 
@@ -244,7 +244,7 @@ Use it to explore:
 - community health;
 - what should happen next.
 
-**[Open the Community Evaluation Canvas →](community-evaluation-canvas.html)**
+**[Open the Community Evaluation Canvas →](community-evaluation-canvas.md)**
 
 </div>
 
