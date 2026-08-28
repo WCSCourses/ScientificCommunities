@@ -43,6 +43,8 @@ Think about what you need to do next.
 
 ## 01 — Define
 
+<div class="toolkit-card">
+
 ### Community Blueprint
 
 Bring the key decisions about your Community of Practice together in one place.
@@ -63,7 +65,9 @@ Use it to clarify your:
 
 **[Open the Community Blueprint →](community-blueprint.html)**
 
----
+</div>
+
+<div class="toolkit-card">
 
 ### Member Profile
 
@@ -80,9 +84,13 @@ Use it to explore:
 
 **[Open the Member Profile →](member-persona.html)**
 
+</div>
+
 ---
 
 ## 02 — Design
+
+<div class="toolkit-card">
 
 ### Participation Canvas
 
@@ -98,7 +106,9 @@ Use it to think about:
 
 **[Open the Participation Canvas →](participation-canvas.html)**
 
----
+</div>
+
+<div class="toolkit-card">
 
 ### Governance Canvas
 
@@ -116,7 +126,9 @@ Use it to think about:
 
 **[Open the Governance Canvas →](governance-canvas.html)**
 
----
+</div>
+
+<div class="toolkit-card">
 
 ### Communication & Infrastructure Canvas
 
@@ -137,9 +149,13 @@ Use it to plan:
 
 **[Open the Communication & Infrastructure Canvas →](communication-canvas.html)**
 
+</div>
+
 ---
 
 ## 03 — Launch & Facilitate
+
+<div class="toolkit-card">
 
 ### 90-Day Community Launch Plan
 
@@ -157,7 +173,9 @@ Use it to plan:
 
 **[Open the 90-Day Launch Plan →](90-day-launch-plan.html)**
 
----
+</div>
+
+<div class="toolkit-card">
 
 ### Community Activity Design Canvas
 
@@ -177,9 +195,13 @@ Use it to plan:
 
 **[Open the Activity Design Canvas →](activity-design-canvas.html)**
 
+</div>
+
 ---
 
 ## 04 — Sustain & Evaluate
+
+<div class="toolkit-card">
 
 ### Community Ownership Canvas
 
@@ -198,7 +220,9 @@ Use it to explore:
 
 **[Open the Community Ownership Canvas →](community-ownership-canvas.html)**
 
----
+</div>
+
+<div class="toolkit-card">
 
 ### Community Evaluation Canvas
 
@@ -222,56 +246,85 @@ Use it to explore:
 
 **[Open the Community Evaluation Canvas →](community-evaluation-canvas.html)**
 
+</div>
+
 ---
 
 # A suggested journey
 
 The tools can be used independently, but the following sequence can help if you are starting a new community.
 
-<div class="prompt">
+<div class="toolkit-journey">
+
+<div class="toolkit-journey-step">
 
 <strong>1. Define</strong>
 
-Community Blueprint  
-Member Profile
+<br>
 
-↓
+Community Blueprint · Member Profile
+
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>2. Design</strong>
 
-Participation Canvas  
-Governance Canvas  
-Communication & Infrastructure Canvas
+<br>
 
-↓
+Participation Canvas · Governance Canvas · Communication & Infrastructure Canvas
+
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>3. Launch</strong>
 
+<br>
+
 90-Day Community Launch Plan
 
-↓
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>4. Facilitate</strong>
 
+<br>
+
 Community Activity Design Canvas
 
-↓
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>5. Build ownership</strong>
 
+<br>
+
 Community Ownership Canvas
 
-↓
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>6. Evaluate</strong>
 
+<br>
+
 Community Evaluation Canvas
 
-↓
+</div>
+
+<div class="toolkit-journey-step">
 
 <strong>7. Adapt</strong>
 
+<br>
+
 Return to whichever tool needs to change.
+
+</div>
 
 </div>
 
@@ -279,23 +332,25 @@ This is not a rigid process. Communities develop iteratively, and you may need t
 
 ---
 
-# Download the complete toolkit
+<div class="toolkit-download">
 
-<div class="toolkit-output">
+<h2>Download the complete toolkit</h2>
 
-## Prefer to work offline?
+<p><strong>Prefer to work offline?</strong></p>
 
-A complete **Participant Workbook & Toolkit** will bring all of these tools together in one document.
+<p>A complete <strong>Participant Workbook & Toolkit</strong> will bring all of these tools together in one document.</p>
 
-You will be able to:
+<p>You will be able to:</p>
 
-- download the complete toolkit;
-- work through it on your own computer;
-- print individual sections;
-- use it with a founding group or community;
-- return to your plans as the community develops.
+<ul>
+<li>download the complete toolkit;</li>
+<li>work through it on your own computer;</li>
+<li>print individual sections;</li>
+<li>use it with a founding group or community;</li>
+<li>return to your plans as the community develops.</li>
+</ul>
 
-**The downloadable workbook will be available here soon.**
+<p><strong>The downloadable workbook will be available here soon.</strong></p>
 
 </div>
 
@@ -328,5 +383,3 @@ The same canvas may look different six months after launch. That is a sign that 
 ## Return to the guide
 
 **[← Back to the Community of Practice guide](../index.html)**
-
-Use the main guide for explanations, examples and practical guidance alongside these tools.
