@@ -257,27 +257,29 @@ Review this canvas periodically.
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have:
+<p>By completing this canvas, you should have:</p>
 
-- a clearer picture of where responsibility currently sits;
-- opportunities for members to take on responsibility;
-- one concrete responsibility that could be transferred;
-- a pathway towards deeper leadership;
-- a succession plan for critical responsibilities;
-- an understanding of barriers to leadership;
-- a plan for recognising contribution.
+<ul>
+<li>a clearer picture of where responsibility currently sits;</li>
+<li>opportunities for members to take on responsibility;</li>
+<li>one concrete responsibility that could be transferred;</li>
+<li>a pathway towards deeper leadership;</li>
+<li>a succession plan for critical responsibilities;</li>
+<li>an understanding of barriers to leadership;</li>
+<li>a plan for recognising contribution.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Review the changes in member ownership periodically.
+<p>Review the changes in member ownership periodically.</p>
 
-Use the **Community Evaluation Canvas** to look for evidence that responsibility, participation and leadership are becoming more distributed.
+<p>Use the <strong>Community Evaluation Canvas</strong> to look for evidence that responsibility, participation and leadership are becoming more distributed.</p>
 
 </div>
 
