@@ -396,30 +396,32 @@ The blueprint should evolve as your community develops.
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this tool, you should have a first working description of:
+<p>By completing this tool, you should have a first working description of:</p>
 
-- your community's shared domain and purpose;
-- who the community is for;
-- what members can contribute and gain;
-- how people will participate;
-- what activities could create value;
-- how the community will communicate and operate;
-- how leadership and responsibility will be organised;
-- what healthy participation and impact might look like.
+<ul>
+<li>your community's shared domain and purpose;</li>
+<li>who the community is for;</li>
+<li>what members can contribute and gain;</li>
+<li>how people will participate;</li>
+<li>what activities could create value;</li>
+<li>how the community will communicate and operate;</li>
+<li>how leadership and responsibility will be organised;</li>
+<li>what healthy participation and impact might look like.</li>
+</ul>
 
-You do not need to have all of these decisions finalised before you launch. The blueprint should be revisited as you learn from your members and from the community itself.
+<p>You do not need to have all of these decisions finalised before you launch. The blueprint should be revisited as you learn from your members and from the community itself.</p>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use your blueprint to identify the areas that need more detailed planning.
+<p>Use your blueprint to identify the areas that need more detailed planning.</p>
 
-You can then move to the relevant tools in the toolkit, such as the **Member Profile**, **Participation Canvas**, **Governance Canvas**, **Communication Canvas** or **90-Day Launch Plan**.
+<p>You can then move to the relevant tools in the toolkit, such as the <strong>Member Profile</strong>, <strong>Participation Canvas</strong>, <strong>Governance Canvas</strong>, <strong>Communication Canvas</strong> or <strong>90-Day Launch Plan</strong>.</p>
 
 </div>
 
