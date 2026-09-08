@@ -203,27 +203,29 @@ If you cannot answer these questions, **do not add the platform yet.**
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have:
+<p>By completing this canvas, you should have:</p>
 
-- a clear primary community space;
-- a defined purpose for each additional channel;
-- communication norms;
-- a plan for managing shared knowledge;
-- identified accessibility considerations;
-- clear infrastructure ownership;
-- a minimum viable technology setup.
+<ul>
+<li>a clear primary community space;</li>
+<li>a defined purpose for each additional channel;</li>
+<li>communication norms;</li>
+<li>a plan for managing shared knowledge;</li>
+<li>identified accessibility considerations;</li>
+<li>clear infrastructure ownership;</li>
+<li>a minimum viable technology setup.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use your infrastructure decisions when developing the **90-Day Launch Plan**.
+<p>Use your infrastructure decisions when developing the <strong>90-Day Launch Plan</strong>.</p>
 
-Keep the infrastructure deliberately simple at first. Add technology when a real community need emerges.
+<p>Keep the infrastructure deliberately simple at first. Add technology when a real community need emerges.</p>
 
 </div>
 
