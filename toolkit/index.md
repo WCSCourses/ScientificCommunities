@@ -43,13 +43,13 @@ Think about what you need to do next.
 
 ## 01 — Define
 
+<div class="toolkit-grid">
+
 <div class="toolkit-card">
 
 <h3>Community Blueprint</h3>
 
-<p>
-Bring the key decisions about your Community of Practice together in one place.
-</p>
+<p>Bring the key decisions about your Community of Practice together in one place.</p>
 
 <p>Use it to clarify your:</p>
 
@@ -67,23 +67,34 @@ Bring the key decisions about your Community of Practice together in one place.
 <li>health and impact.</li>
 </ul>
 
+<p>
 <a class="toolkit-link" href="community-blueprint.html">Open the Community Blueprint →</a>
+</p>
 
+</div>
 
-### Member Profile
+<div class="toolkit-card">
 
-Understand the people your community is designed to serve.
+<h3>Member Profile</h3>
 
-Use it to explore:
+<p>Understand the people your community is designed to serve.</p>
 
-- who your members are;
-- why they might join;
-- what they need;
-- what they can contribute;
-- barriers to participation;
-- pathways towards deeper involvement.
+<p>Use it to explore:</p>
 
-**[Open the Member Profile →](member-persona.md)**
+<ul>
+<li>who your members are;</li>
+<li>why they might join;</li>
+<li>what they need;</li>
+<li>what they can contribute;</li>
+<li>barriers to participation;</li>
+<li>pathways towards deeper involvement.</li>
+</ul>
+
+<p>
+<a class="toolkit-link" href="member-persona.html">Open the Member Profile →</a>
+</p>
+
+</div>
 
 </div>
 
@@ -91,110 +102,138 @@ Use it to explore:
 
 ## 02 — Design
 
+<div class="toolkit-grid">
+
 <div class="toolkit-card">
 
-### Participation Canvas
+<h3>Participation Canvas</h3>
 
-Design multiple ways for members to participate — from observing and asking through to contributing, collaborating and leading.
+<p>Design multiple ways for members to participate — from observing and asking through to contributing, collaborating and leading.</p>
 
-Use it to think about:
+<p>Use it to think about:</p>
 
-- participation pathways;
-- the first 30 days;
-- belonging;
-- engagement rhythm;
-- member contribution.
+<ul>
+<li>participation pathways;</li>
+<li>the first 30 days;</li>
+<li>belonging;</li>
+<li>engagement rhythm;</li>
+<li>member contribution.</li>
+</ul>
 
-**[Open the Participation Canvas →](participation-canvas.md)**
+<p>
+<a class="toolkit-link" href="participation-canvas.html">Open the Participation Canvas →</a>
+</p>
 
 </div>
 
 <div class="toolkit-card">
 
-### Governance Canvas
+<h3>Governance Canvas</h3>
 
-Design a governance model that provides enough structure without unnecessarily centralising control.
+<p>Design a governance model that provides enough structure without unnecessarily centralising control.</p>
 
-Use it to think about:
+<p>Use it to think about:</p>
 
-- coordination;
-- decision-making;
-- member leadership;
-- power and influence;
-- community expectations;
-- continuity;
-- governance review.
+<ul>
+<li>coordination;</li>
+<li>decision-making;</li>
+<li>member leadership;</li>
+<li>power and influence;</li>
+<li>community expectations;</li>
+<li>continuity;</li>
+<li>governance review.</li>
+</ul>
 
-**[Open the Governance Canvas →](governance-canvas.md)**
+<p>
+<a class="toolkit-link" href="governance-canvas.html">Open the Governance Canvas →</a>
+</p>
 
 </div>
 
 <div class="toolkit-card">
 
-### Communication & Infrastructure Canvas
+<h3>Communication &amp; Infrastructure Canvas</h3>
 
-Choose the communication channels and technology your community actually needs.
+<p>Choose the communication channels and technology your community actually needs.</p>
 
-Start with community behaviours rather than platforms.
+<p>Start with community behaviours rather than platforms.</p>
 
-Use it to plan:
+<p>Use it to plan:</p>
 
-- community behaviours;
-- the primary community space;
-- additional channels;
-- communication norms;
-- knowledge management;
-- accessibility;
-- infrastructure ownership;
-- minimum viable infrastructure.
+<ul>
+<li>community behaviours;</li>
+<li>the primary community space;</li>
+<li>additional channels;</li>
+<li>communication norms;</li>
+<li>knowledge management;</li>
+<li>accessibility;</li>
+<li>infrastructure ownership;</li>
+<li>minimum viable infrastructure.</li>
+</ul>
 
-**[Open the Communication & Infrastructure Canvas →](communication-canvas.md)**
+<p>
+<a class="toolkit-link" href="communication-canvas.html">Open the Communication &amp; Infrastructure Canvas →</a>
+</p>
+
+</div>
 
 </div>
 
 ---
 
-## 03 — Launch & Facilitate
+## 03 — Launch &amp; Facilitate
+
+<div class="toolkit-grid">
 
 <div class="toolkit-card">
 
-### 90-Day Community Launch Plan
+<h3>90-Day Community Launch Plan</h3>
 
-Move from preparation to an active Community of Practice.
+<p>Move from preparation to an active Community of Practice.</p>
 
-Use it to plan:
+<p>Use it to plan:</p>
 
-- preparation and member consultation;
-- your first interaction;
-- follow-up;
-- Month 1 — Connect;
-- Month 2 — Contribute;
-- Month 3 — Co-create;
-- your 90-day review.
+<ul>
+<li>preparation and member consultation;</li>
+<li>your first interaction;</li>
+<li>follow-up;</li>
+<li>Month 1 — Connect;</li>
+<li>Month 2 — Contribute;</li>
+<li>Month 3 — Co-create;</li>
+<li>your 90-day review.</li>
+</ul>
 
-**[Open the 90-Day Launch Plan →](90-day-launch-plan.md)**
+<p>
+<a class="toolkit-link" href="90-day-launch-plan.html">Open the 90-Day Launch Plan →</a>
+</p>
 
 </div>
 
 <div class="toolkit-card">
 
-### Community Activity Design Canvas
+<h3>Community Activity Design Canvas</h3>
 
-Design individual community activities around genuine member needs.
+<p>Design individual community activities around genuine member needs.</p>
 
-Use it to plan:
+<p>Use it to plan:</p>
 
-- the need;
-- participants;
-- member contribution;
-- activity format;
-- facilitation;
-- desired outcomes;
-- documentation;
-- follow-up;
-- review.
+<ul>
+<li>the need;</li>
+<li>participants;</li>
+<li>member contribution;</li>
+<li>activity format;</li>
+<li>facilitation;</li>
+<li>desired outcomes;</li>
+<li>documentation;</li>
+<li>follow-up;</li>
+<li>review.</li>
+</ul>
 
-**[Open the Activity Design Canvas →](activity-design-canvas.md)**
+<p>
+<a class="toolkit-link" href="activity-design-canvas.html">Open the Activity Design Canvas →</a>
+</p>
+
+</div>
 
 </div>
 
@@ -206,79 +245,78 @@ Use it to plan:
 
 <h3>Take ownership of your community</h3>
 
-<p>
-A practical workshop resource for turning an existing community platform
-into an active, member-led network.
-</p>
+<p>A practical workshop resource for turning an existing community platform into an active, member-led network.</p>
+
+<p>The <strong>AGEN Community Action Planning Workshop</strong> guides participants through three connected sessions: <strong>Imagine → Design → Commit</strong>.</p>
+
+<p>Together, participants identify priority activities, clarify ownership across the Core Team, Community Champions and Trainer Network, and create a practical 90-day action plan.</p>
 
 <p>
-The <strong>AGEN Community Action Planning Workshop</strong> guides
-participants through three connected sessions:
-<strong>Imagine → Design → Commit</strong>.
-</p>
-
-<p>
-Together, participants identify priority activities, clarify ownership
-across the Core Team, Community Champions and Trainer Network, and create
-a practical 90-day action plan.
-</p>
-
-<p>
-<a class="toolkit-link" href="agen-community-action-planning.md">
-Explore the AGEN Community Action Planning Workshop →
-</a>
+<a class="toolkit-link" href="agen-community-action-planning.html">Explore the AGEN Community Action Planning Workshop →</a>
 </p>
 
 </div>
 
 ---
 
-## 04 — Sustain & Evaluate
+## 04 — Sustain &amp; Evaluate
+
+<div class="toolkit-grid">
 
 <div class="toolkit-card">
 
-### Community Ownership Canvas
+<h3>Community Ownership Canvas</h3>
 
-Strengthen distributed responsibility, member leadership and succession.
+<p>Strengthen distributed responsibility, member leadership and succession.</p>
 
-Use it to explore:
+<p>Use it to explore:</p>
 
-- who currently holds responsibility;
-- opportunities for contribution;
-- transferring responsibility;
-- leadership development;
-- succession;
-- inclusion and access to leadership;
-- recognition;
-- community ownership.
+<ul>
+<li>who currently holds responsibility;</li>
+<li>opportunities for contribution;</li>
+<li>transferring responsibility;</li>
+<li>leadership development;</li>
+<li>succession;</li>
+<li>inclusion and access to leadership;</li>
+<li>recognition;</li>
+<li>community ownership.</li>
+</ul>
 
-**[Open the Community Ownership Canvas →](community-ownership-canvas.md)**
+<p>
+<a class="toolkit-link" href="community-ownership-canvas.html">Open the Community Ownership Canvas →</a>
+</p>
 
 </div>
 
 <div class="toolkit-card">
 
-### Community Evaluation Canvas
+<h3>Community Evaluation Canvas</h3>
 
-Evaluate whether your Community of Practice is creating meaningful value.
+<p>Evaluate whether your Community of Practice is creating meaningful value.</p>
 
-Use it to explore:
+<p>Use it to explore:</p>
 
-- what you want to learn;
-- your evidence chain;
-- participation;
-- engagement;
-- relationships;
-- learning and change in practice;
-- collective value;
-- unexpected outcomes;
-- qualitative evidence;
-- core indicators;
-- baseline information;
-- community health;
-- what should happen next.
+<ul>
+<li>what you want to learn;</li>
+<li>your evidence chain;</li>
+<li>participation;</li>
+<li>engagement;</li>
+<li>relationships;</li>
+<li>learning and change in practice;</li>
+<li>collective value;</li>
+<li>unexpected outcomes;</li>
+<li>qualitative evidence;</li>
+<li>core indicators;</li>
+<li>baseline information;</li>
+<li>community health;</li>
+<li>what should happen next.</li>
+</ul>
 
-**[Open the Community Evaluation Canvas →](community-evaluation-canvas.md)**
+<p>
+<a class="toolkit-link" href="community-evaluation-canvas.html">Open the Community Evaluation Canvas →</a>
+</p>
+
+</div>
 
 </div>
 
@@ -306,7 +344,7 @@ Community Blueprint · Member Profile
 
 <br>
 
-Participation Canvas · Governance Canvas · Communication & Infrastructure Canvas
+Participation Canvas · Governance Canvas · Communication &amp; Infrastructure Canvas
 
 </div>
 
@@ -372,7 +410,7 @@ This is not a rigid process. Communities develop iteratively, and you may need t
 
 <p><strong>Prefer to work offline?</strong></p>
 
-<p>A complete <strong>Participant Workbook & Toolkit</strong> will bring all of these tools together in one document.</p>
+<p>A complete <strong>Participant Workbook &amp; Toolkit</strong> will bring all of these tools together in one document.</p>
 
 <p>You will be able to:</p>
 
@@ -416,4 +454,6 @@ The same canvas may look different six months after launch. That is a sign that 
 
 ## Return to the guide
 
-**[← Back to the Community of Practice guide](../index.html)**
+<p>
+<a class="toolkit-link" href="../index.html">← Back to the Community of Practice guide</a>
+</p>
