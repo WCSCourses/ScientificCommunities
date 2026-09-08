@@ -67,11 +67,8 @@ Bring the key decisions about your Community of Practice together in one place.
 <li>health and impact.</li>
 </ul>
 
-<p>
-<a class="toolkit-link" href="community-blueprint.md">Open the Community Blueprint →</a>
-</p>
+<a class="toolkit-link" href="community-blueprint.html">Open the Community Blueprint →</a>
 
-</div>
 
 ### Member Profile
 
