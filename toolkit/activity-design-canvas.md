@@ -195,28 +195,30 @@ With activity facilitators and, where possible, community members.
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have a practical activity plan that defines:
+<p>By completing this canvas, you should have a practical activity plan that defines:</p>
 
-- the community need;
-- who should participate;
-- what members will contribute;
-- the most appropriate activity format;
-- how the activity will be facilitated;
-- the desired outcomes;
-- what will be captured;
-- how follow-up will happen;
-- how the activity will be reviewed.
+<ul>
+<li>the community need;</li>
+<li>who should participate;</li>
+<li>what members will contribute;</li>
+<li>the most appropriate activity format;</li>
+<li>how the activity will be facilitated;</li>
+<li>the desired outcomes;</li>
+<li>what will be captured;</li>
+<li>how follow-up will happen;</li>
+<li>how the activity will be reviewed.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use the activity plan to deliver the session and then record what you learn.
+<p>Use the activity plan to deliver the session and then record what you learn.</p>
 
-Feed those observations back into your **Participation Canvas**, **90-Day Launch Plan** or **Community Evaluation Canvas** as appropriate.
+<p>Feed those observations back into your <strong>Participation Canvas</strong>, <strong>90-Day Launch Plan</strong> or <strong>Community Evaluation Canvas</strong> as appropriate.</p>
 
 </div>
