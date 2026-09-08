@@ -201,29 +201,31 @@ Think about different pathways into participation.
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this tool, you should have a working hypothesis about:
+<p>By completing this tool, you should have a working hypothesis about:</p>
 
-- who this member group is;
-- why they might participate;
-- what they need;
-- what they can contribute;
-- what might prevent participation;
-- what would make participation valuable;
-- how they could become more deeply involved over time.
+<ul>
+<li>who this member group is;</li>
+<li>why they might participate;</li>
+<li>what they need;</li>
+<li>what they can contribute;</li>
+<li>what might prevent participation;</li>
+<li>what would make participation valuable;</li>
+<li>how they could become more deeply involved over time.</li>
+</ul>
 
-Remember that the profile is a hypothesis. Validate it with real people and update it as you learn more.
+<p>Remember that the profile is a hypothesis. Validate it with real people and update it as you learn more.</p>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use what you have learned to design meaningful pathways for participation.
+<p>Use what you have learned to design meaningful pathways for participation.</p>
 
-The **Participation Canvas** can help you translate member needs and motivations into practical opportunities to observe, ask, contribute, collaborate and lead.
+<p>The <strong>Participation Canvas</strong> can help you translate member needs and motivations into practical opportunities to observe, ask, contribute, collaborate and lead.</p>
 
 </div>
 
