@@ -107,9 +107,13 @@ title: Scientific Communities of Practice
 
 <hr>
 
-<h2>Practical toolkit</h2>
+## Practical toolkit
 
-<p>Use these templates alongside the guide to turn ideas into practical community-building decisions.</p>
+Use these templates alongside the guide to turn ideas into practical community-building decisions.
+
+<p>
+<a class="button" href="toolkit/">Explore the full toolkit →</a>
+</p>
 
 <div class="toolkit-grid">
 
