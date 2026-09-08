@@ -199,6 +199,39 @@ Use it to plan:
 
 ---
 
+<div class="toolkit-featured">
+
+<h2>For course participants</h2>
+
+<h3>Take ownership of your community</h3>
+
+<p>
+A practical workshop resource for turning an existing community platform
+into an active, member-led network.
+</p>
+
+<p>
+The <strong>AGEN Community Action Planning Workshop</strong> guides
+participants through three connected sessions:
+<strong>Imagine → Design → Commit</strong>.
+</p>
+
+<p>
+Together, participants identify priority activities, clarify ownership
+across the Core Team, Community Champions and Trainer Network, and create
+a practical 90-day action plan.
+</p>
+
+<p>
+<a class="toolkit-link" href="agen-community-action-planning.md">
+Explore the AGEN Community Action Planning Workshop →
+</a>
+</p>
+
+</div>
+
+---
+
 ## 04 — Sustain & Evaluate
 
 <div class="toolkit-card">
