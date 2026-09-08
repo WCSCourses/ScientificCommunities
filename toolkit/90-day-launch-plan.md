@@ -224,26 +224,28 @@ Look for signs that the community is beginning to function through member intera
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this plan, you should have:
+<p>By completing this plan, you should have:</p>
 
-- a clear plan for your first interaction;
-- follow-up actions for the first month;
-- a progression from connection to contribution and co-creation;
-- defined opportunities for member contribution;
-- a 90-day review point;
-- early indicators of community health.
+<ul>
+<li>a clear plan for your first interaction;</li>
+<li>follow-up actions for the first month;</li>
+<li>a progression from connection to contribution and co-creation;</li>
+<li>defined opportunities for member contribution;</li>
+<li>a 90-day review point;</li>
+<li>early indicators of community health.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-At the end of the 90 days, use the **Community Evaluation Canvas** to look more systematically at participation, relationships, learning, change in practice and wider outcomes.
+<p>At the end of the 90 days, use the <strong>Community Evaluation Canvas</strong> to look more systematically at participation, relationships, learning, change in practice and wider outcomes.</p>
 
-Use the **Community Ownership Canvas** if you are ready to increase member responsibility and leadership.
+<p>Use the <strong>Community Ownership Canvas</strong> if you are ready to increase member responsibility and leadership.</p>
 
 </div>
 
