@@ -476,29 +476,31 @@ The community has fulfilled its purpose or is no longer the appropriate mechanis
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have:
+<p>By completing this canvas, you should have:</p>
 
-- clear questions about what you want to learn;
-- an evidence chain connecting activity to outcomes;
-- a small set of useful indicators;
-- quantitative and qualitative evidence;
-- a baseline where appropriate;
-- an assessment of community health;
-- a decision about what should happen next.
+<ul>
+<li>clear questions about what you want to learn;</li>
+<li>an evidence chain connecting activity to outcomes;</li>
+<li>a small set of useful indicators;</li>
+<li>quantitative and qualitative evidence;</li>
+<li>a baseline where appropriate;</li>
+<li>an assessment of community health;</li>
+<li>a decision about what should happen next.</li>
+</ul>
 
-The aim is not to prove that every outcome was caused by the community. Instead, use evidence to understand whether the community is creating meaningful value and what you should learn or change next.
+<p>The aim is not to prove that every outcome was caused by the community. Instead, use evidence to understand whether the community is creating meaningful value and what you should learn or change next.</p>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use the findings to adapt your community.
+<p>Use the findings to adapt your community.</p>
 
-Return to the **Community Blueprint**, **Participation Canvas**, **Community Ownership Canvas** or other relevant tools when the evaluation identifies something that needs to change.
+<p>Return to the <strong>Community Blueprint</strong>, <strong>Participation Canvas</strong>, <strong>Community Ownership Canvas</strong> or other relevant tools when the evaluation identifies something that needs to change.</p>
 
 </div>
 
