@@ -176,25 +176,27 @@ If the answer is **"nothing"**, reconsider whether the activity is creating a Co
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have:
+<p>By completing this canvas, you should have:</p>
 
-- multiple pathways for participation;
-- a clearer first-30-days experience for newcomers;
-- ideas for creating belonging;
-- an engagement rhythm;
-- a way to test whether activities genuinely involve member contribution.
+<ul>
+<li>multiple pathways for participation;</li>
+<li>a clearer first-30-days experience for newcomers;</li>
+<li>ideas for creating belonging;</li>
+<li>an engagement rhythm;</li>
+<li>a way to test whether activities genuinely involve member contribution.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use your participation design alongside the **Activity Design Canvas** to create activities that give members meaningful opportunities to contribute.
+<p>Use your participation design alongside the <strong>Activity Design Canvas</strong> to create activities that give members meaningful opportunities to contribute.</p>
 
-You can also use the **Community Ownership Canvas** to consider how participation can develop into member leadership and shared responsibility.
+<p>You can also use the <strong>Community Ownership Canvas</strong> to consider how participation can develop into member leadership and shared responsibility.</p>
 
 </div>
 
