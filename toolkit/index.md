@@ -45,29 +45,33 @@ Think about what you need to do next.
 
 <div class="toolkit-card">
 
-### Community Blueprint
+<h3>Community Blueprint</h3>
 
+<p>
 Bring the key decisions about your Community of Practice together in one place.
+</p>
 
-Use it to clarify your:
+<p>Use it to clarify your:</p>
 
-- shared domain and purpose;
-- collective value;
-- objectives;
-- members;
-- participation;
-- activities;
-- communication;
-- leadership;
-- community rhythm;
-- shared practice;
-- health and impact.
+<ul>
+<li>shared domain and purpose;</li>
+<li>collective value;</li>
+<li>objectives;</li>
+<li>members;</li>
+<li>participation;</li>
+<li>activities;</li>
+<li>communication;</li>
+<li>leadership;</li>
+<li>community rhythm;</li>
+<li>shared practice;</li>
+<li>health and impact.</li>
+</ul>
 
-**[Open the Community Blueprint →](community-blueprint.md)**
+<p>
+<a class="toolkit-link" href="community-blueprint.md">Open the Community Blueprint →</a>
+</p>
 
 </div>
-
-<div class="toolkit-card">
 
 ### Member Profile
 
