@@ -179,24 +179,26 @@ Ask yourself:
 
 <div class="toolkit-output">
 
-## Your output
+<h2>Your output</h2>
 
-By completing this canvas, you should have a clearer understanding of:
+<p>By completing this canvas, you should have a clearer understanding of:</p>
 
-- who coordinates the community;
-- what responsibilities need to be covered;
-- which decisions require collective input;
-- what members can lead;
-- how influence and opportunities will be distributed;
-- how the community can maintain continuity if leadership changes.
+<ul>
+<li>who coordinates the community;</li>
+<li>what responsibilities need to be covered;</li>
+<li>which decisions require collective input;</li>
+<li>what members can lead;</li>
+<li>how influence and opportunities will be distributed;</li>
+<li>how the community can maintain continuity if leadership changes.</li>
+</ul>
 
 </div>
 
 <div class="toolkit-next">
 
-## Next step
+<h2>Next step</h2>
 
-Use the **Community Ownership Canvas** to move from governance design towards distributed responsibility, member leadership and succession.
+<p>Use the <strong>Community Ownership Canvas</strong> to move from governance design towards distributed responsibility, member leadership and succession.</p>
 
 </div>
 
