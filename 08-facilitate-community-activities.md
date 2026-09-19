@@ -509,6 +509,15 @@ Afterwards, ask:
 If most answers are "Not yet", change the format rather than simply repeating the same activity.
 
 ---
+<div class="toolkit-example">
+
+<h3>Looking for inspiration?</h3>
+
+<p>See a worked example of how a scientific Community of Practice can turn member needs into a small set of meaningful community activities.</p>
+
+<p><a href="../examples/designing-community-activities.html">View the worked example →</a></p>
+
+</div>
 
 # Your output
 
