@@ -1,6 +1,9 @@
-<div class="toolkit-example">
+---
+layout: default
+title: Example: Designing Community Activities
+---
 
-<h3>Worked example</h3>
+<div class="toolkit-example">
 
 <p>Imagine you are developing a regional Community of Practice for people who use and teach genomic data analysis. You might start with a small number of activities that create different ways for members to learn, share, solve problems and contribute.</p>
 
