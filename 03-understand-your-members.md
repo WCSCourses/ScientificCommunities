@@ -51,6 +51,17 @@ Your member groups should reflect your own domain.
 
 ## Activity: Map your members
 
+Worked example
+Imagine you are developing a regional Community of Practice for people who use and teach genomic data analysis. Your members may include people at different career stages and with different roles.
+
+| Member group | Why might they join? | What do they need? | What can they contribute? |
+
+> |---|---|---|---|
+> | Early-career bioinformaticians | To build skills, solve technical problems and connect with peers | Practical advice, peer support and opportunities to learn | Questions, new tools, technical experience and enthusiasm |
+> | Experienced practitioners | To exchange expertise, mentor others and stay connected to developments in the field | Opportunities to share knowledge, collaborate and support others | Expertise, mentoring, resources and lessons learned |
+> | Trainers and educators | To improve their teaching and exchange training approaches | Teaching resources, peer feedback and opportunities to collaborate | Training experience, materials, facilitation skills and ideas |
+
+
 List the main groups you expect to participate.
 
 | Member group | Why might they join? | What do they need? | What can they contribute? |
