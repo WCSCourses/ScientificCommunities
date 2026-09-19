@@ -515,7 +515,7 @@ If most answers are "Not yet", change the format rather than simply repeating th
 
 <p>See a worked example of how a scientific Community of Practice can turn member needs into a small set of meaningful community activities.</p>
 
-<p><a href="../examples/designing-community-activities.html">View the worked example →</a></p>
+<p><a href="https://wcscourses.github.io/ScientificCommunities/examples/designing-community-activities.html">View the worked example →</a></p>
 
 </div>
 
