@@ -143,6 +143,51 @@ Do not treat these answers as facts yet.
 
 They are hypotheses to test with real members.
 
+<div class="toolkit-example">
+
+<h3>Worked example</h3>
+
+<p>For the same regional genomics community, you might explore the following:</p>
+
+<table>
+<thead>
+<tr>
+<th>Member group</th>
+<th>What matters to them?</th>
+<th>What do they need?</th>
+<th>What can they contribute?</th>
+<th>What might prevent participation?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Early-career bioinformaticians</strong></td>
+<td>Building confidence and practical skills</td>
+<td>Troubleshooting support, mentoring and relevant learning opportunities</td>
+<td>Questions, technical experience and new perspectives</td>
+<td>Limited time, lack of confidence or feeling they have little to contribute</td>
+</tr>
+<tr>
+<td><strong>Experienced practitioners</strong></td>
+<td>Sharing expertise and helping strengthen the field</td>
+<td>Meaningful ways to mentor, collaborate and exchange knowledge</td>
+<td>Expertise, networks, resources and practical solutions</td>
+<td>Competing commitments or activities that feel one-way</td>
+</tr>
+<tr>
+<td><strong>Trainers and educators</strong></td>
+<td>Improving training quality and learning from other trainers</td>
+<td>Shared resources, peer feedback and opportunities to collaborate</td>
+<td>Training materials, teaching experience and facilitation</td>
+<td>Limited time or activities that do not connect to their training needs</td>
+</tr>
+</tbody>
+</table>
+
+<p>Use examples like these as prompts, not as assumptions about your own members. Validate them with the people you hope will participate.</p>
+
+</div>
+
 ---
 
 # 3.3 Validate your assumptions
