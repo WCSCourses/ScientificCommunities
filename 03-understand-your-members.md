@@ -51,17 +51,6 @@ Your member groups should reflect your own domain.
 
 ## Activity: Map your members
 
-Worked example
-Imagine you are developing a regional Community of Practice for people who use and teach genomic data analysis. Your members may include people at different career stages and with different roles.
-
-| Member group | Why might they join? | What do they need? | What can they contribute? |
-
-> |---|---|---|---|
-> | Early-career bioinformaticians | To build skills, solve technical problems and connect with peers | Practical advice, peer support and opportunities to learn | Questions, new tools, technical experience and enthusiasm |
-> | Experienced practitioners | To exchange expertise, mentor others and stay connected to developments in the field | Opportunities to share knowledge, collaborate and support others | Expertise, mentoring, resources and lessons learned |
-> | Trainers and educators | To improve their teaching and exchange training approaches | Teaching resources, peer feedback and opportunities to collaborate | Training experience, materials, facilitation skills and ideas |
-
-
 List the main groups you expect to participate.
 
 | Member group | Why might they join? | What do they need? | What can they contribute? |
@@ -75,6 +64,47 @@ List the main groups you expect to participate.
 Do not worry about getting this perfect.
 
 The purpose is to expose assumptions that you can later test with actual members.
+
+<div class="toolkit-example">
+
+<h3>Worked example</h3>
+
+<p>Imagine you are developing a regional Community of Practice for people who use and teach genomic data analysis. Your members may include people at different career stages and with different roles.</p>
+
+<table>
+<thead>
+<tr>
+<th>Member group</th>
+<th>Why might they join?</th>
+<th>What do they need?</th>
+<th>What can they contribute?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Early-career bioinformaticians</strong></td>
+<td>To build skills, solve technical problems and connect with peers</td>
+<td>Practical advice, peer support and opportunities to learn</td>
+<td>Questions, new tools, technical experience and enthusiasm</td>
+</tr>
+<tr>
+<td><strong>Experienced practitioners</strong></td>
+<td>To exchange expertise, mentor others and stay connected to developments in the field</td>
+<td>Opportunities to share knowledge, collaborate and support others</td>
+<td>Expertise, mentoring, resources and lessons learned</td>
+</tr>
+<tr>
+<td><strong>Trainers and educators</strong></td>
+<td>To improve their teaching and exchange training approaches</td>
+<td>Teaching resources, peer feedback and opportunities to collaborate</td>
+<td>Training experience, materials, facilitation skills and ideas</td>
+</tr>
+</tbody>
+</table>
+
+<p>This is only an illustration. Your own member groups should come from your community's domain and, ideally, from conversations with potential members.</p>
+
+</div>
 
 ---
 
