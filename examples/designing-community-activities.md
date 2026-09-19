@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example: Designing Community Activities
+title: "Example: Designing Community Activities"
 ---
 
 <div class="toolkit-example">
